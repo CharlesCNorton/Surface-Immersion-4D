@@ -1,0 +1,1104 @@
+--- Classification for Surface of Genus 0 ---
+Postnikov Invariants: [2, 0, 0], Whitehead Product: 0, Tertiary Homotopy: 0
+Quantum Homotopy Correction: 0
+Gauge Theory: Donaldson Invariant: 1, SW Invariant: 0, Instanton Correction: 0, Exotic Structure Analysis: 0
+Symplectic Field Theory: SFT Invariants: [1, 1, 2], Floer Homology: [0, 2, 4, 6], GW Invariants: [1, 3, 5]
+Mirror Symmetry Correction: 0
+K-Theory Invariant: 0
+Total Invariant: 634
+
+--- Classification for Surface of Genus 1 ---
+Postnikov Invariants: [2, 2, 1], Whitehead Product: 0, Tertiary Homotopy: 2
+Quantum Homotopy Correction: 2/3
+Gauge Theory: Donaldson Invariant: 1/2, SW Invariant: 2*sqrt(pi), Instanton Correction: log(2), Exotic Structure Analysis: 25
+Symplectic Field Theory: SFT Invariants: [1, 2, 6], Floer Homology: [1, 3, 5, 7], GW Invariants: [3, 5, 7]
+Mirror Symmetry Correction: 1/3*log(2)
+K-Theory Invariant: 3
+Total Invariant: 1157
+
+--- Classification for Surface of Genus 2 ---
+Postnikov Invariants: [2, 4, 5], Whitehead Product: 1, Tertiary Homotopy: 6
+Quantum Homotopy Correction: 5/6
+Gauge Theory: Donaldson Invariant: 2/3, SW Invariant: 4*sqrt(2)*sqrt(pi), Instanton Correction: log(3) + 6, Exotic Structure Analysis: 52
+Symplectic Field Theory: SFT Invariants: [2, 6, 24], Floer Homology: [2, 4, 6, 8], GW Invariants: [5, 7, 9]
+Mirror Symmetry Correction: 1/2*log(3)
+K-Theory Invariant: 8
+Total Invariant: 1667
+
+--- Classification for Surface of Genus 3 ---
+Postnikov Invariants: [2, 6, 12], Whitehead Product: 3, Tertiary Homotopy: 12
+Quantum Homotopy Correction: 9/10
+Gauge Theory: Donaldson Invariant: 3/2, SW Invariant: 8*sqrt(3)*sqrt(pi), Instanton Correction: 2*log(2) + 24, Exotic Structure Analysis: 81
+Symplectic Field Theory: SFT Invariants: [6, 24, 120], Floer Homology: [3, 5, 7, 9], GW Invariants: [7, 9, 11]
+Mirror Symmetry Correction: 6/5*log(2)
+K-Theory Invariant: 15
+Total Invariant: 2262
+
+--- Classification for Surface of Genus 4 ---
+Postnikov Invariants: [2, 8, 22], Whitehead Product: 6, Tertiary Homotopy: 20
+Quantum Homotopy Correction: 14/15
+Gauge Theory: Donaldson Invariant: 24/5, SW Invariant: 32*sqrt(pi), Instanton Correction: log(5) + 60, Exotic Structure Analysis: 112
+Symplectic Field Theory: SFT Invariants: [24, 120, 720], Floer Homology: [4, 6, 8, 10], GW Invariants: [9, 11, 13]
+Mirror Symmetry Correction: 2/3*log(5)
+K-Theory Invariant: 24
+Total Invariant: 3450
+
+--- Classification for Surface of Genus 5 ---
+Postnikov Invariants: [2, 10, 35], Whitehead Product: 10, Tertiary Homotopy: 30
+Quantum Homotopy Correction: 20/21
+Gauge Theory: Donaldson Invariant: 20, SW Invariant: 32*sqrt(5)*sqrt(pi), Instanton Correction: log(6) + 120, Exotic Structure Analysis: 145
+Symplectic Field Theory: SFT Invariants: [120, 720, 5040], Floer Homology: [5, 7, 9, 11], GW Invariants: [11, 13, 15]
+Mirror Symmetry Correction: 5/7*log(6)
+K-Theory Invariant: 35
+Total Invariant: 8940
+
+--- Classification for Surface of Genus 6 ---
+Postnikov Invariants: [2, 12, 51], Whitehead Product: 15, Tertiary Homotopy: 42
+Quantum Homotopy Correction: 27/28
+Gauge Theory: Donaldson Invariant: 720/7, SW Invariant: 64*sqrt(6)*sqrt(pi), Instanton Correction: log(7) + 210, Exotic Structure Analysis: 180
+Symplectic Field Theory: SFT Invariants: [720, 5040, 40320], Floer Homology: [6, 8, 10, 12], GW Invariants: [13, 15, 17]
+Mirror Symmetry Correction: 3/4*log(7)
+K-Theory Invariant: 48
+Total Invariant: 99231/2
+
+--- Classification for Surface of Genus 7 ---
+Postnikov Invariants: [2, 14, 70], Whitehead Product: 21, Tertiary Homotopy: 56
+Quantum Homotopy Correction: 35/36
+Gauge Theory: Donaldson Invariant: 630, SW Invariant: 128*sqrt(7)*sqrt(pi), Instanton Correction: 3*log(2) + 336, Exotic Structure Analysis: 217
+Symplectic Field Theory: SFT Invariants: [5040, 40320, 362880], Floer Homology: [7, 9, 11, 13], GW Invariants: [15, 17, 19]
+Mirror Symmetry Correction: 7/3*log(2)
+K-Theory Invariant: 63
+Total Invariant: 1236760/3
+
+--- Classification for Surface of Genus 8 ---
+Postnikov Invariants: [2, 16, 92], Whitehead Product: 28, Tertiary Homotopy: 72
+Quantum Homotopy Correction: 44/45
+Gauge Theory: Donaldson Invariant: 4480, SW Invariant: 512*sqrt(2)*sqrt(pi), Instanton Correction: 2*log(3) + 504, Exotic Structure Analysis: 256
+Symplectic Field Theory: SFT Invariants: [40320, 362880, 3628800], Floer Homology: [8, 10, 12, 14], GW Invariants: [17, 19, 21]
+Mirror Symmetry Correction: 8/5*log(3)
+K-Theory Invariant: 80
+Total Invariant: 4036494
+
+--- Classification for Surface of Genus 9 ---
+Postnikov Invariants: [2, 18, 117], Whitehead Product: 36, Tertiary Homotopy: 90
+Quantum Homotopy Correction: 54/55
+Gauge Theory: Donaldson Invariant: 36288, SW Invariant: 1536*sqrt(pi), Instanton Correction: log(10) + 720, Exotic Structure Analysis: 297
+Symplectic Field Theory: SFT Invariants: [362880, 3628800, 39916800], Floer Homology: [9, 11, 13, 15], GW Invariants: [19, 21, 23]
+Mirror Symmetry Correction: 9/11*log(10)
+K-Theory Invariant: 99
+Total Invariant: 483048036/11
+
+--- Classification for Surface of Genus 10 ---
+Postnikov Invariants: [2, 20, 145], Whitehead Product: 45, Tertiary Homotopy: 110
+Quantum Homotopy Correction: 65/66
+Gauge Theory: Donaldson Invariant: 3628800/11, SW Invariant: 1024*sqrt(10)*sqrt(pi), Instanton Correction: log(11) + 990, Exotic Structure Analysis: 340
+Symplectic Field Theory: SFT Invariants: [3628800, 39916800, 479001600], Floer Homology: [10, 12, 14, 16], GW Invariants: [21, 23, 25]
+Mirror Symmetry Correction: 5/6*log(11)
+K-Theory Invariant: 120
+Total Invariant: 522552665
+
+--- Classification for Surface of Genus 11 ---
+Postnikov Invariants: [2, 22, 176], Whitehead Product: 55, Tertiary Homotopy: 132
+Quantum Homotopy Correction: 77/78
+Gauge Theory: Donaldson Invariant: 3326400, SW Invariant: 2048*sqrt(11)*sqrt(pi), Instanton Correction: log(12) + 1320, Exotic Structure Analysis: 385
+Symplectic Field Theory: SFT Invariants: [39916800, 479001600, 6227020800], Floer Homology: [11, 13, 15, 17], GW Invariants: [23, 25, 27]
+Mirror Symmetry Correction: 11/13*log(12)
+K-Theory Invariant: 143
+Total Invariant: 87697287024/13
+
+--- Classification for Surface of Genus 12 ---
+Postnikov Invariants: [2, 24, 210], Whitehead Product: 66, Tertiary Homotopy: 156
+Quantum Homotopy Correction: 90/91
+Gauge Theory: Donaldson Invariant: 479001600/13, SW Invariant: 8192*sqrt(3)*sqrt(pi), Instanton Correction: log(13) + 1716, Exotic Structure Analysis: 432
+Symplectic Field Theory: SFT Invariants: [479001600, 6227020800, 87178291200], Floer Homology: [12, 14, 16, 18], GW Invariants: [25, 27, 29]
+Mirror Symmetry Correction: 6/7*log(13)
+K-Theory Invariant: 168
+Total Invariant: 93884320050
+
+--- Classification for Surface of Genus 13 ---
+Postnikov Invariants: [2, 26, 247], Whitehead Product: 78, Tertiary Homotopy: 182
+Quantum Homotopy Correction: 104/105
+Gauge Theory: Donaldson Invariant: 444787200, SW Invariant: 8192*sqrt(13)*sqrt(pi), Instanton Correction: log(14) + 2184, Exotic Structure Analysis: 481
+Symplectic Field Theory: SFT Invariants: [6227020800, 87178291200, 1307674368000], Floer Homology: [13, 15, 17, 19], GW Invariants: [27, 29, 31]
+Mirror Symmetry Correction: 13/15*log(14)
+K-Theory Invariant: 195
+Total Invariant: 1401079686948
+
+--- Classification for Surface of Genus 14 ---
+Postnikov Invariants: [2, 28, 287], Whitehead Product: 91, Tertiary Homotopy: 210
+Quantum Homotopy Correction: 119/120
+Gauge Theory: Donaldson Invariant: 5811886080, SW Invariant: 16384*sqrt(14)*sqrt(pi), Instanton Correction: log(15) + 2730, Exotic Structure Analysis: 532
+Symplectic Field Theory: SFT Invariants: [87178291200, 1307674368000, 20922789888000], Floer Homology: [14, 16, 18, 20], GW Invariants: [29, 31, 33]
+Mirror Symmetry Correction: 7/8*log(15)
+K-Theory Invariant: 224
+Total Invariant: 89270570218599/4
+
+--- Classification for Surface of Genus 15 ---
+Postnikov Invariants: [2, 30, 330], Whitehead Product: 105, Tertiary Homotopy: 240
+Quantum Homotopy Correction: 135/136
+Gauge Theory: Donaldson Invariant: 81729648000, SW Invariant: 32768*sqrt(15)*sqrt(pi), Instanton Correction: 4*log(2) + 3360, Exotic Structure Analysis: 585
+Symplectic Field Theory: SFT Invariants: [1307674368000, 20922789888000, 355687428096000], Floer Homology: [15, 17, 19, 21], GW Invariants: [31, 33, 35]
+Mirror Symmetry Correction: 60/17*log(2)
+K-Theory Invariant: 255
+Total Invariant: 6424604170119240/17
+
+--- Classification for Surface of Genus 16 ---
+Postnikov Invariants: [2, 32, 376], Whitehead Product: 120, Tertiary Homotopy: 272
+Quantum Homotopy Correction: 152/153
+Gauge Theory: Donaldson Invariant: 20922789888000/17, SW Invariant: 262144*sqrt(pi), Instanton Correction: log(17) + 4080, Exotic Structure Analysis: 640
+Symplectic Field Theory: SFT Invariants: [20922789888000, 355687428096000, 6402373705728000], Floer Homology: [16, 18, 20, 22], GW Invariants: [33, 35, 37]
+Mirror Symmetry Correction: 8/9*log(17)
+K-Theory Invariant: 288
+Total Invariant: 20336951771161394/3
+
+--- Classification for Surface of Genus 17 ---
+Postnikov Invariants: [2, 34, 425], Whitehead Product: 136, Tertiary Homotopy: 306
+Quantum Homotopy Correction: 170/171
+Gauge Theory: Donaldson Invariant: 19760412672000, SW Invariant: 131072*sqrt(17)*sqrt(pi), Instanton Correction: log(18) + 4896, Exotic Structure Analysis: 697
+Symplectic Field Theory: SFT Invariants: [355687428096000, 6402373705728000, 121645100408832000], Floer Homology: [17, 19, 21, 23], GW Invariants: [35, 37, 39]
+Mirror Symmetry Correction: 17/19*log(18)
+K-Theory Invariant: 323
+Total Invariant: 2439660069310634580/19
+
+--- Classification for Surface of Genus 18 ---
+Postnikov Invariants: [2, 36, 477], Whitehead Product: 153, Tertiary Homotopy: 342
+Quantum Homotopy Correction: 189/190
+Gauge Theory: Donaldson Invariant: 6402373705728000/19, SW Invariant: 786432*sqrt(2)*sqrt(pi), Instanton Correction: log(19) + 5814, Exotic Structure Analysis: 756
+Symplectic Field Theory: SFT Invariants: [6402373705728000, 121645100408832000, 2432902008176640000], Floer Homology: [18, 20, 22, 24], GW Invariants: [37, 39, 41]
+Mirror Symmetry Correction: 9/10*log(19)
+K-Theory Invariant: 360
+Total Invariant: 2560949482291209495
+
+--- Classification for Surface of Genus 19 ---
+Postnikov Invariants: [2, 38, 532], Whitehead Product: 171, Tertiary Homotopy: 380
+Quantum Homotopy Correction: 209/210
+Gauge Theory: Donaldson Invariant: 6082255020441600, SW Invariant: 524288*sqrt(19)*sqrt(pi), Instanton Correction: log(20) + 6840, Exotic Structure Analysis: 817
+Symplectic Field Theory: SFT Invariants: [121645100408832000, 2432902008176640000, 51090942171709440000], Floer Homology: [19, 21, 23, 25], GW Invariants: [39, 41, 43]
+Mirror Symmetry Correction: 19/21*log(20)
+K-Theory Invariant: 399
+Total Invariant: 53645489280294922016
+
+--- Classification for Surface of Genus 20 ---
+Postnikov Invariants: [2, 40, 590], Whitehead Product: 190, Tertiary Homotopy: 420
+Quantum Homotopy Correction: 230/231
+Gauge Theory: Donaldson Invariant: 115852476579840000, SW Invariant: 2097152*sqrt(5)*sqrt(pi), Instanton Correction: log(21) + 7980, Exotic Structure Analysis: 880
+Symplectic Field Theory: SFT Invariants: [2432902008176640000, 51090942171709440000, 1124000727777607680000], Floer Homology: [20, 22, 24, 26], GW Invariants: [41, 43, 45]
+Mirror Symmetry Correction: 10/11*log(21)
+K-Theory Invariant: 440
+Total Invariant: 12952770291532431475950/11
+
+--- Classification for Surface of Genus 21 ---
+Postnikov Invariants: [2, 42, 651], Whitehead Product: 210, Tertiary Homotopy: 462
+Quantum Homotopy Correction: 252/253
+Gauge Theory: Donaldson Invariant: 2322315553259520000, SW Invariant: 2097152*sqrt(21)*sqrt(pi), Instanton Correction: log(22) + 9240, Exotic Structure Analysis: 945
+Symplectic Field Theory: SFT Invariants: [51090942171709440000, 1124000727777607680000, 25852016738884976640000], Floer Homology: [21, 23, 25, 27], GW Invariants: [43, 45, 47]
+Mirror Symmetry Correction: 21/23*log(22)
+K-Theory Invariant: 483
+Total Invariant: 621623493403188756734604/23
+
+--- Classification for Surface of Genus 22 ---
+Postnikov Invariants: [2, 44, 715], Whitehead Product: 231, Tertiary Homotopy: 506
+Quantum Homotopy Correction: 275/276
+Gauge Theory: Donaldson Invariant: 1124000727777607680000/23, SW Invariant: 4194304*sqrt(22)*sqrt(pi), Instanton Correction: log(23) + 10626, Exotic Structure Analysis: 1012
+Symplectic Field Theory: SFT Invariants: [1124000727777607680000, 25852016738884976640000, 620448401733239439360000], Floer Homology: [22, 24, 26, 28], GW Invariants: [45, 47, 49]
+Mirror Symmetry Correction: 11/12*log(23)
+K-Theory Invariant: 528
+Total Invariant: 1294848838399804047383205/2
+
+--- Classification for Surface of Genus 23 ---
+Postnikov Invariants: [2, 46, 782], Whitehead Product: 253, Tertiary Homotopy: 552
+Quantum Homotopy Correction: 299/300
+Gauge Theory: Donaldson Invariant: 1077167364120207360000, SW Invariant: 8388608*sqrt(23)*sqrt(pi), Instanton Correction: log(24) + 12144, Exotic Structure Analysis: 1081
+Symplectic Field Theory: SFT Invariants: [25852016738884976640000, 620448401733239439360000, 15511210043330985984000000], Floer Homology: [23, 25, 27, 29], GW Invariants: [47, 49, 51]
+Mirror Symmetry Correction: 23/25*log(24)
+K-Theory Invariant: 575
+Total Invariant: 80787552309015552000060696/5
+
+--- Classification for Surface of Genus 24 ---
+Postnikov Invariants: [2, 48, 852], Whitehead Product: 276, Tertiary Homotopy: 600
+Quantum Homotopy Correction: 324/325
+Gauge Theory: Donaldson Invariant: 24817936069329577574400, SW Invariant: 33554432*sqrt(6)*sqrt(pi), Instanton Correction: 2*log(5) + 13800, Exotic Structure Analysis: 1152
+Symplectic Field Theory: SFT Invariants: [620448401733239439360000, 15511210043330985984000000, 403291461126605635584000000], Floer Homology: [24, 26, 28, 30], GW Invariants: [49, 51, 53]
+Mirror Symmetry Correction: 24/13*log(5)
+K-Theory Invariant: 624
+Total Invariant: 5452500554431708193095844838/13
+
+--- Classification for Surface of Genus 25 ---
+Postnikov Invariants: [2, 50, 925], Whitehead Product: 300, Tertiary Homotopy: 650
+Quantum Homotopy Correction: 350/351
+Gauge Theory: Donaldson Invariant: 596585001666576384000000, SW Invariant: 167772160*sqrt(pi), Instanton Correction: log(26) + 15600, Exotic Structure Analysis: 1225
+Symplectic Field Theory: SFT Invariants: [15511210043330985984000000, 403291461126605635584000000, 10888869450418352160768000000], Floer Homology: [25, 27, 29, 31], GW Invariants: [51, 53, 55]
+Mirror Symmetry Correction: 25/27*log(26)
+K-Theory Invariant: 675
+Total Invariant: 101769049094294599041024119020/9
+
+--- Classification for Surface of Genus 26 ---
+Postnikov Invariants: [2, 52, 1001], Whitehead Product: 325, Tertiary Homotopy: 702
+Quantum Homotopy Correction: 377/378
+Gauge Theory: Donaldson Invariant: 14936720782466875392000000, SW Invariant: 67108864*sqrt(26)*sqrt(pi), Instanton Correction: 3*log(3) + 17550, Exotic Structure Analysis: 1300
+Symplectic Field Theory: SFT Invariants: [403291461126605635584000000, 10888869450418352160768000000, 304888344611713860501504000000], Floer Homology: [26, 28, 30, 32], GW Invariants: [53, 55, 57]
+Mirror Symmetry Correction: 39/14*log(3)
+K-Theory Invariant: 728
+Total Invariant: 316180505523258818297856013773
+
+--- Classification for Surface of Genus 27 ---
+Postnikov Invariants: [2, 54, 1080], Whitehead Product: 351, Tertiary Homotopy: 756
+Quantum Homotopy Correction: 405/406
+Gauge Theory: Donaldson Invariant: 388888194657798291456000000, SW Invariant: 402653184*sqrt(3)*sqrt(pi), Instanton Correction: log(28) + 19656, Exotic Structure Analysis: 1377
+Symplectic Field Theory: SFT Invariants: [10888869450418352160768000000, 304888344611713860501504000000, 8841761993739701954543616000000], Floer Homology: [27, 29, 31, 33], GW Invariants: [55, 57, 59]
+Mirror Symmetry Correction: 27/29*log(28)
+K-Theory Invariant: 783
+Total Invariant: 265568637026253190848970752415440/29
+
+--- Classification for Surface of Genus 28 ---
+Postnikov Invariants: [2, 56, 1162], Whitehead Product: 378, Tertiary Homotopy: 812
+Quantum Homotopy Correction: 434/435
+Gauge Theory: Donaldson Invariant: 304888344611713860501504000000/29, SW Invariant: 536870912*sqrt(7)*sqrt(pi), Instanton Correction: log(29) + 21924, Exotic Structure Analysis: 1456
+Symplectic Field Theory: SFT Invariants: [304888344611713860501504000000, 8841761993739701954543616000000, 265252859812191058636308480000000], Floer Homology: [28, 30, 32, 34], GW Invariants: [57, 59, 61]
+Mirror Symmetry Correction: 14/15*log(29)
+K-Theory Invariant: 840
+Total Invariant: 274399510150542474451353600014882
+
+--- Classification for Surface of Genus 29 ---
+Postnikov Invariants: [2, 58, 1247], Whitehead Product: 406, Tertiary Homotopy: 870
+Quantum Homotopy Correction: 464/465
+Gauge Theory: Donaldson Invariant: 294725399791323398484787200000, SW Invariant: 536870912*sqrt(29)*sqrt(pi), Instanton Correction: log(30) + 24360, Exotic Structure Analysis: 1537
+Symplectic Field Theory: SFT Invariants: [8841761993739701954543616000000, 265252859812191058636308480000000, 8222838654177922817725562880000000], Floer Homology: [29, 31, 33, 35], GW Invariants: [59, 61, 63]
+Mirror Symmetry Correction: 29/31*log(30)
+K-Theory Invariant: 899
+Total Invariant: 263404931555499460927808864256478716/31
+
+--- Classification for Surface of Genus 30 ---
+Postnikov Invariants: [2, 60, 1335], Whitehead Product: 435, Tertiary Homotopy: 930
+Quantum Homotopy Correction: 495/496
+Gauge Theory: Donaldson Invariant: 265252859812191058636308480000000/31, SW Invariant: 1073741824*sqrt(30)*sqrt(pi), Instanton Correction: log(31) + 26970, Exotic Structure Analysis: 1620
+Symplectic Field Theory: SFT Invariants: [265252859812191058636308480000000, 8222838654177922817725562880000000, 263130836933693530167218012160000000], Floer Homology: [30, 32, 34, 36], GW Invariants: [61, 63, 65]
+Mirror Symmetry Correction: 15/16*log(31)
+K-Theory Invariant: 960
+Total Invariant: 2172951427581469152348639068160128055/8
+
+--- Classification for Surface of Genus 31 ---
+Postnikov Invariants: [2, 62, 1426], Whitehead Product: 465, Tertiary Homotopy: 992
+Quantum Homotopy Correction: 527/528
+Gauge Theory: Donaldson Invariant: 256963707943060088053923840000000, SW Invariant: 2147483648*sqrt(31)*sqrt(pi), Instanton Correction: 5*log(2) + 29760, Exotic Structure Analysis: 1705
+Symplectic Field Theory: SFT Invariants: [8222838654177922817725562880000000, 263130836933693530167218012160000000, 8683317618811886495518194401280000000], Floer Homology: [31, 33, 35, 37], GW Invariants: [63, 65, 67]
+Mirror Symmetry Correction: 155/33*log(2)
+K-Theory Invariant: 1023
+Total Invariant: 98501384238397337433534517739520182328/11
+
+--- Classification for Surface of Genus 32 ---
+Postnikov Invariants: [2, 64, 1520], Whitehead Product: 496, Tertiary Homotopy: 1056
+Quantum Homotopy Correction: 560/561
+Gauge Theory: Donaldson Invariant: 7973661725263440308097515520000000, SW Invariant: 17179869184*sqrt(2)*sqrt(pi), Instanton Correction: log(33) + 32736, Exotic Structure Analysis: 1792
+Symplectic Field Theory: SFT Invariants: [263130836933693530167218012160000000, 8683317618811886495518194401280000000, 295232799039604140847618609643520000000], Floer Homology: [32, 34, 36, 38], GW Invariants: [65, 67, 69]
+Mirror Symmetry Correction: 16/17*log(33)
+K-Theory Invariant: 1088
+Total Invariant: 5171047207420945254846168374968320291510/17
+
+--- Classification for Surface of Genus 33 ---
+Postnikov Invariants: [2, 66, 1617], Whitehead Product: 528, Tertiary Homotopy: 1122
+Quantum Homotopy Correction: 594/595
+Gauge Theory: Donaldson Invariant: 255391694670937838103476305920000000, SW Invariant: 8589934592*sqrt(33)*sqrt(pi), Instanton Correction: log(34) + 35904, Exotic Structure Analysis: 1881
+Symplectic Field Theory: SFT Invariants: [8683317618811886495518194401280000000, 295232799039604140847618609643520000000, 10333147966386144929666651337523200000000], Floer Homology: [33, 35, 37, 39], GW Invariants: [67, 69, 71]
+Mirror Symmetry Correction: 33/35*log(34)
+K-Theory Invariant: 1155
+Total Invariant: 10637064083044560957009788141568000017724
+
+--- Classification for Surface of Genus 34 ---
+Postnikov Invariants: [2, 68, 1717], Whitehead Product: 561, Tertiary Homotopy: 1190
+Quantum Homotopy Correction: 629/630
+Gauge Theory: Donaldson Invariant: 8435222829702975452789103132672000000, SW Invariant: 17179869184*sqrt(34)*sqrt(pi), Instanton Correction: log(35) + 39270, Exotic Structure Analysis: 1972
+Symplectic Field Theory: SFT Invariants: [295232799039604140847618609643520000000, 10333147966386144929666651337523200000000, 371993326789901217467999448150835200000000], Floer Homology: [34, 36, 38, 40], GW Invariants: [69, 71, 73]
+Mirror Symmetry Correction: 17/18*log(35)
+K-Theory Invariant: 1224
+Total Invariant: 1147865122665980899615541154294005760054913/3
+
+--- Classification for Surface of Genus 35 ---
+Postnikov Invariants: [2, 70, 1820], Whitehead Product: 595, Tertiary Homotopy: 1260
+Quantum Homotopy Correction: 665/666
+Gauge Theory: Donaldson Invariant: 287031887955170692490740314931200000000, SW Invariant: 34359738368*sqrt(35)*sqrt(pi), Instanton Correction: 2*log(6) + 42840, Exotic Structure Analysis: 2065
+Symplectic Field Theory: SFT Invariants: [10333147966386144929666651337523200000000, 371993326789901217467999448150835200000000, 13763753091226345046315979581580902400000000], Floer Homology: [35, 37, 39, 41], GW Invariants: [71, 73, 75]
+Mirror Symmetry Correction: 70/37*log(6)
+K-Theory Invariant: 1295
+Total Invariant: 523404943941357399122404890199562649600698880/37
+
+--- Classification for Surface of Genus 36 ---
+Postnikov Invariants: [2, 72, 1926], Whitehead Product: 630, Tertiary Homotopy: 1332
+Quantum Homotopy Correction: 702/703
+Gauge Theory: Donaldson Invariant: 371993326789901217467999448150835200000000/37, SW Invariant: 412316860416*sqrt(pi), Instanton Correction: log(37) + 46620, Exotic Structure Analysis: 2160
+Symplectic Field Theory: SFT Invariants: [371993326789901217467999448150835200000000, 13763753091226345046315979581580902400000000, 523022617466601111760007224100074291200000000], Floer Homology: [36, 38, 40, 42], GW Invariants: [73, 75, 77]
+Mirror Symmetry Correction: 18/19*log(37)
+K-Theory Invariant: 1368
+Total Invariant: 10206008913807729802452032859466314547200370062/19
+
+--- Classification for Surface of Genus 37 ---
+Postnikov Invariants: [2, 74, 2035], Whitehead Product: 666, Tertiary Homotopy: 1406
+Quantum Homotopy Correction: 740/741
+Gauge Theory: Donaldson Invariant: 362204028716482764376736304778444800000000, SW Invariant: 137438953472*sqrt(37)*sqrt(pi), Instanton Correction: log(38) + 50616, Exotic Structure Analysis: 2257
+Symplectic Field Theory: SFT Invariants: [13763753091226345046315979581580902400000000, 523022617466601111760007224100074291200000000, 20397882081197443358640281739902897356800000000], Floer Homology: [37, 39, 41, 43], GW Invariants: [75, 77, 79]
+Mirror Symmetry Correction: 37/39*log(38)
+K-Theory Invariant: 1443
+Total Invariant: 272150689872818520600805864266599183155200260900/13
+
+--- Classification for Surface of Genus 38 ---
+Postnikov Invariants: [2, 76, 2147], Whitehead Product: 703, Tertiary Homotopy: 1482
+Quantum Homotopy Correction: 779/780
+Gauge Theory: Donaldson Invariant: 13410836345297464404102749335899340800000000, SW Invariant: 274877906944*sqrt(38)*sqrt(pi), Instanton Correction: log(39) + 54834, Exotic Structure Analysis: 2356
+Symplectic Field Theory: SFT Invariants: [523022617466601111760007224100074291200000000, 20397882081197443358640281739902897356800000000, 815915283247897734345611269596115894272000000000], Floer Homology: [38, 40, 42, 44], GW Invariants: [77, 79, 81]
+Mirror Symmetry Correction: 19/20*log(39)
+K-Theory Invariant: 1520
+Total Invariant: 1673672375893123557632023117120237731840000041331/2
+
+--- Classification for Surface of Genus 39 ---
+Postnikov Invariants: [2, 78, 2262], Whitehead Product: 741, Tertiary Homotopy: 1560
+Quantum Homotopy Correction: 819/820
+Gauge Theory: Donaldson Invariant: 509947052029936083966007043497572433920000000, SW Invariant: 549755813888*sqrt(39)*sqrt(pi), Instanton Correction: log(40) + 59280, Exotic Structure Analysis: 2457
+Symplectic Field Theory: SFT Invariants: [20397882081197443358640281739902897356800000000, 815915283247897734345611269596115894272000000000, 33452526613163807108170062053440751665152000000000], Floer Homology: [39, 41, 43, 45], GW Invariants: [79, 81, 83]
+Mirror Symmetry Correction: 39/41*log(40)
+K-Theory Invariant: 1599
+Total Invariant: 1405842430918208993720846857795847588728012800871896/41
+
+--- Classification for Surface of Genus 40 ---
+Postnikov Invariants: [2, 80, 2380], Whitehead Product: 780, Tertiary Homotopy: 1640
+Quantum Homotopy Correction: 860/861
+Gauge Theory: Donaldson Invariant: 815915283247897734345611269596115894272000000000/41, SW Invariant: 2199023255552*sqrt(10)*sqrt(pi), Instanton Correction: log(41) + 63960, Exotic Structure Analysis: 2560
+Symplectic Field Theory: SFT Invariants: [815915283247897734345611269596115894272000000000, 33452526613163807108170062053440751665152000000000, 1405006117752879898543142606244511569936384000000000], Floer Homology: [40, 42, 44, 46], GW Invariants: [81, 83, 85]
+Mirror Symmetry Correction: 20/21*log(41)
+K-Theory Invariant: 1680
+Total Invariant: 1439274559649291603385658279567548437495808000021870
+
+--- Classification for Surface of Genus 41 ---
+Postnikov Invariants: [2, 82, 2501], Whitehead Product: 820, Tertiary Homotopy: 1722
+Quantum Homotopy Correction: 902/903
+Gauge Theory: Donaldson Invariant: 796488728884852550194525286986684563456000000000, SW Invariant: 2199023255552*sqrt(41)*sqrt(pi), Instanton Correction: log(42) + 68880, Exotic Structure Analysis: 2665
+Symplectic Field Theory: SFT Invariants: [33452526613163807108170062053440751665152000000000, 1405006117752879898543142606244511569936384000000000, 60415263063373835637355132068513997507264512000000000], Floer Homology: [41, 43, 45, 47], GW Invariants: [83, 85, 87]
+Mirror Symmetry Correction: 41/43*log(42)
+K-Theory Invariant: 1763
+Total Invariant: 2659710033432814811749277123682913842641240064000966564/43
+
+--- Classification for Surface of Genus 42 ---
+Postnikov Invariants: [2, 84, 2625], Whitehead Product: 861, Tertiary Homotopy: 1806
+Quantum Homotopy Correction: 945/946
+Gauge Theory: Donaldson Invariant: 1405006117752879898543142606244511569936384000000000/43, SW Invariant: 4398046511104*sqrt(42)*sqrt(pi), Instanton Correction: log(43) + 74046, Exotic Structure Analysis: 2772
+Symplectic Field Theory: SFT Invariants: [1405006117752879898543142606244511569936384000000000, 60415263063373835637355132068513997507264512000000000, 2658271574788448768043625811014615890319638528000000000], Floer Homology: [42, 44, 46, 48], GW Invariants: [85, 87, 89]
+Mirror Symmetry Correction: 21/22*log(43)
+K-Theory Invariant: 1848
+Total Invariant: 29921010283665330319374764942583118393365233664000253995/11
+
+--- Classification for Surface of Genus 43 ---
+Postnikov Invariants: [2, 86, 2752], Whitehead Product: 903, Tertiary Homotopy: 1892
+Quantum Homotopy Correction: 989/990
+Gauge Theory: Donaldson Invariant: 1373074160531223537212616637920772670619648000000000, SW Invariant: 8796093022208*sqrt(43)*sqrt(pi), Instanton Correction: log(44) + 79464, Exotic Structure Analysis: 2881
+Symplectic Field Theory: SFT Invariants: [60415263063373835637355132068513997507264512000000000, 2658271574788448768043625811014615890319638528000000000, 119622220865480194561963161495657715064383733760000000000], Floer Homology: [43, 45, 47, 49], GW Invariants: [87, 89, 91]
+Mirror Symmetry Correction: 43/45*log(44)
+K-Theory Invariant: 1935
+Total Invariant: 367022723109996051496932427316222534856631910400000071120/3
+
+--- Classification for Surface of Genus 44 ---
+Postnikov Invariants: [2, 88, 2882], Whitehead Product: 946, Tertiary Homotopy: 1980
+Quantum Homotopy Correction: 1034/1035
+Gauge Theory: Donaldson Invariant: 59072701661965528178747240244769242007103078400000000, SW Invariant: 35184372088832*sqrt(11)*sqrt(pi), Instanton Correction: log(45) + 85140, Exotic Structure Analysis: 2992
+Symplectic Field Theory: SFT Invariants: [2658271574788448768043625811014615890319638528000000000, 119622220865480194561963161495657715064383733760000000000, 5502622159812088949850305428800254892961651752960000000000], Floer Homology: [44, 46, 48, 50], GW Invariants: [89, 91, 93]
+Mirror Symmetry Correction: 22/23*log(45)
+K-Theory Invariant: 2024
+Total Invariant: 129372761001804224643147180970459326150076167880704000559518/23
+
+--- Classification for Surface of Genus 45 ---
+Postnikov Invariants: [2, 90, 3015], Whitehead Product: 990, Tertiary Homotopy: 2070
+Quantum Homotopy Correction: 1080/1081
+Gauge Theory: Donaldson Invariant: 2600483062293047707868764380340385110095298560000000000, SW Invariant: 105553116266496*sqrt(5)*sqrt(pi), Instanton Correction: log(46) + 91080, Exotic Structure Analysis: 3105
+Symplectic Field Theory: SFT Invariants: [119622220865480194561963161495657715064383733760000000000, 5502622159812088949850305428800254892961651752960000000000, 258623241511168180642964355153611979969197632389120000000000], Floer Homology: [45, 47, 49, 51], GW Invariants: [91, 93, 95]
+Mirror Symmetry Correction: 45/47*log(46)
+K-Theory Invariant: 2115
+Total Invariant: 12419537836916750240006701315963670951129512390164480001172700/47
+
+--- Classification for Surface of Genus 46 ---
+Postnikov Invariants: [2, 92, 3151], Whitehead Product: 1035, Tertiary Homotopy: 2162
+Quantum Homotopy Correction: 1127/1128
+Gauge Theory: Donaldson Invariant: 5502622159812088949850305428800254892961651752960000000000/47, SW Invariant: 70368744177664*sqrt(46)*sqrt(pi), Instanton Correction: log(47) + 97290, Exotic Structure Analysis: 3220
+Symplectic Field Theory: SFT Invariants: [5502622159812088949850305428800254892961651752960000000000, 258623241511168180642964355153611979969197632389120000000000, 12413915592536072670862289047373375038521486354677760000000000], Floer Homology: [46, 48, 50, 52], GW Invariants: [93, 95, 97]
+Mirror Symmetry Correction: 23/24*log(47)
+K-Theory Invariant: 2208
+Total Invariant: 50712165824828211761820414831823149093534582555279360000102317/4
+
+--- Classification for Surface of Genus 47 ---
+Postnikov Invariants: [2, 94, 3290], Whitehead Product: 1081, Tertiary Homotopy: 2256
+Quantum Homotopy Correction: 1175/1176
+Gauge Theory: Donaldson Invariant: 5387984198149337096728424065700249582691617341440000000000, SW Invariant: 140737488355328*sqrt(47)*sqrt(pi), Instanton Correction: log(48) + 103776, Exotic Structure Analysis: 3337
+Symplectic Field Theory: SFT Invariants: [258623241511168180642964355153611979969197632389120000000000, 12413915592536072670862289047373375038521486354677760000000000, 608281864034267560872252163321295376887552831379210240000000000], Floer Homology: [47, 49, 51, 53], GW Invariants: [95, 97, 99]
+Mirror Symmetry Correction: 47/49*log(48)
+K-Theory Invariant: 2303
+Total Invariant: 4346680820078203612066301917066756547342304607563939840000183480/7
+
+--- Classification for Surface of Genus 48 ---
+Postnikov Invariants: [2, 96, 3432], Whitehead Product: 1128, Tertiary Homotopy: 2352
+Quantum Homotopy Correction: 1224/1225
+Gauge Theory: Donaldson Invariant: 253345216174205564711475286681089286500438497034240000000000, SW Invariant: 1125899906842624*sqrt(3)*sqrt(pi), Instanton Correction: 2*log(7) + 110544, Exotic Structure Analysis: 3456
+Symplectic Field Theory: SFT Invariants: [12413915592536072670862289047373375038521486354677760000000000, 608281864034267560872252163321295376887552831379210240000000000, 30414093201713378043612608166064768844377641568960512000000000000], Floer Homology: [48, 50, 52, 54], GW Invariants: [97, 99, 101]
+Mirror Symmetry Correction: 48/25*log(7)
+K-Theory Invariant: 2400
+Total Invariant: 155173944906700908385778613092167187981518579433472000000000134238/5
+
+--- Classification for Surface of Genus 49 ---
+Postnikov Invariants: [2, 98, 3577], Whitehead Product: 1176, Tertiary Homotopy: 2450
+Quantum Homotopy Correction: 1274/1275
+Gauge Theory: Donaldson Invariant: 12165637280685351217445043266425907537751056627584204800000000, SW Invariant: 3940649673949184*sqrt(pi), Instanton Correction: log(50) + 117600, Exotic Structure Analysis: 3577
+Symplectic Field Theory: SFT Invariants: [608281864034267560872252163321295376887552831379210240000000000, 30414093201713378043612608166064768844377641568960512000000000000, 1551118753287382280224243016469303211063259720016986112000000000000], Floer Homology: [49, 51, 53, 55], GW Invariants: [99, 101, 103]
+Mirror Symmetry Correction: 49/51*log(50)
+K-Theory Invariant: 2499
+Total Invariant: 26896399182003208739088373905577717679836923545094539182080000467292/17
+
+--- Classification for Surface of Genus 50 ---
+Postnikov Invariants: [2, 100, 3725], Whitehead Product: 1225, Tertiary Homotopy: 2550
+Quantum Homotopy Correction: 1325/1326
+Gauge Theory: Donaldson Invariant: 596354768661046628306129571883622918517208658214912000000000000, SW Invariant: 5629499534213120*sqrt(2)*sqrt(pi), Instanton Correction: log(51) + 124950, Exotic Structure Analysis: 3700
+Symplectic Field Theory: SFT Invariants: [30414093201713378043612608166064768844377641568960512000000000000, 1551118753287382280224243016469303211063259720016986112000000000000, 80658175170943878571660636856403766975289505440883277824000000000000], Floer Homology: [50, 52, 54, 56], GW Invariants: [101, 103, 105]
+Mirror Symmetry Correction: 25/26*log(51)
+K-Theory Invariant: 2600
+Total Invariant: 1069116204226628664989070402253508754417562856432099917824000000365715/13
+
+--- Classification for Surface of Genus 51 ---
+Postnikov Invariants: [2, 102, 3876], Whitehead Product: 1275, Tertiary Homotopy: 2652
+Quantum Homotopy Correction: 1377/1378
+Gauge Theory: Donaldson Invariant: 29829206793988120773543134932101984828139610000326656000000000000, SW Invariant: 2251799813685248*sqrt(51)*sqrt(pi), Instanton Correction: log(52) + 132600, Exotic Structure Analysis: 3825
+Symplectic Field Theory: SFT Invariants: [1551118753287382280224243016469303211063259720016986112000000000000, 80658175170943878571660636856403766975289505440883277824000000000000, 4274883284060025564298013753389399649690343788366813724672000000000000], Floer Homology: [51, 53, 55, 57], GW Invariants: [103, 105, 107]
+Mirror Symmetry Correction: 51/53*log(52)
+K-Theory Invariant: 2703
+Total Invariant: 230925906633165611732944627562900454153464917336968841396224000001525344/53
+
+--- Classification for Surface of Genus 52 ---
+Postnikov Invariants: [2, 104, 4030], Whitehead Product: 1326, Tertiary Homotopy: 2756
+Quantum Homotopy Correction: 1430/1431
+Gauge Theory: Donaldson Invariant: 80658175170943878571660636856403766975289505440883277824000000000000/53, SW Invariant: 9007199254740992*sqrt(13)*sqrt(pi), Instanton Correction: log(53) + 140556, Exotic Structure Analysis: 3952
+Symplectic Field Theory: SFT Invariants: [80658175170943878571660636856403766975289505440883277824000000000000, 4274883284060025564298013753389399649690343788366813724672000000000000, 230843697339241380472092742683027581083278564571807941132288000000000000], Floer Homology: [52, 54, 56, 58], GW Invariants: [105, 107, 109]
+Mirror Symmetry Correction: 26/27*log(53)
+K-Theory Invariant: 2808
+Total Invariant: 2116793149186251149234661753659460460499497780790540743213056000000264890/9
+
+--- Classification for Surface of Genus 53 ---
+Postnikov Invariants: [2, 106, 4187], Whitehead Product: 1378, Tertiary Homotopy: 2862
+Quantum Homotopy Correction: 1484/1485
+Gauge Theory: Donaldson Invariant: 79164505260370843783296550988692586105376736821607661568000000000000, SW Invariant: 9007199254740992*sqrt(53)*sqrt(pi), Instanton Correction: log(54) + 148824, Exotic Structure Analysis: 4081
+Symplectic Field Theory: SFT Invariants: [4274883284060025564298013753389399649690343788366813724672000000000000, 230843697339241380472092742683027581083278564571807941132288000000000000, 12696403353658275925965100847566516959580321051449436762275840000000000000], Floer Homology: [53, 55, 57, 59], GW Invariants: [107, 109, 111]
+Mirror Symmetry Correction: 53/55*log(54)
+K-Theory Invariant: 2915
+Total Invariant: 142246741277097350652016407644032273343446189557905726688460800000000330972/11
+
+--- Classification for Surface of Genus 54 ---
+Postnikov Invariants: [2, 108, 4347], Whitehead Product: 1431, Tertiary Homotopy: 2970
+Quantum Homotopy Correction: 1539/1540
+Gauge Theory: Donaldson Invariant: 4197158133440752372219868048782319656059610264941962566041600000000000, SW Invariant: 54043195528445952*sqrt(6)*sqrt(pi), Instanton Correction: log(55) + 157410, Exotic Structure Analysis: 4212
+Symplectic Field Theory: SFT Invariants: [230843697339241380472092742683027581083278564571807941132288000000000000, 12696403353658275925965100847566516959580321051449436762275840000000000000, 710998587804863451854045647463724949736497978881168458687447040000000000000], Floer Homology: [54, 56, 58, 60], GW Invariants: [109, 111, 113]
+Mirror Symmetry Correction: 27/28*log(55)
+K-Theory Invariant: 3024
+Total Invariant: 1447851669711721938320965682107948988554323156994379406781710336000000061497/2
+
+--- Classification for Surface of Genus 55 ---
+Postnikov Invariants: [2, 110, 4510], Whitehead Product: 1485, Tertiary Homotopy: 3080
+Quantum Homotopy Correction: 1595/1596
+Gauge Theory: Donaldson Invariant: 226721488458183498677948229420830659992505733061597085040640000000000000, SW Invariant: 36028797018963968*sqrt(55)*sqrt(pi), Instanton Correction: log(56) + 166320, Exotic Structure Analysis: 4345
+Symplectic Field Theory: SFT Invariants: [12696403353658275925965100847566516959580321051449436762275840000000000000, 710998587804863451854045647463724949736497978881168458687447040000000000000, 40526919504877216755680601905432322134980384796226602145184481280000000000000], Floer Homology: [55, 57, 59, 61], GW Invariants: [111, 113, 115]
+Mirror Symmetry Correction: 55/57*log(56)
+K-Theory Invariant: 3135
+Total Invariant: 783761675424679031185751640421128658431852798827025180772049879040000000596840/19
+
+--- Classification for Surface of Genus 56 ---
+Postnikov Invariants: [2, 112, 4676], Whitehead Product: 1540, Tertiary Homotopy: 3192
+Quantum Homotopy Correction: 1652/1653
+Gauge Theory: Donaldson Invariant: 12473659435173043014983256973047806135728034717213481731358720000000000000, SW Invariant: 144115188075855872*sqrt(14)*sqrt(pi), Instanton Correction: log(57) + 175560, Exotic Structure Analysis: 4480
+Symplectic Field Theory: SFT Invariants: [710998587804863451854045647463724949736497978881168458687447040000000000000, 40526919504877216755680601905432322134980384796226602145184481280000000000000, 2350561331282878571829474910515074683828862318181142924420699914240000000000000], Floer Homology: [56, 58, 60, 62], GW Invariants: [113, 115, 117]
+Mirror Symmetry Correction: 28/29*log(57)
+K-Theory Invariant: 3248
+Total Invariant: 69362178231891258909073277183971151196493796827731270155712583434240000000930342/29
+
+--- Classification for Surface of Genus 57 ---
+Postnikov Invariants: [2, 114, 4845], Whitehead Product: 1596, Tertiary Homotopy: 3306
+Quantum Homotopy Correction: 1710/1711
+Gauge Theory: Donaldson Invariant: 698739991463400288891044860438488312672075599934941416296284160000000000000, SW Invariant: 144115188075855872*sqrt(57)*sqrt(pi), Instanton Correction: log(58) + 185136, Exotic Structure Analysis: 4617
+Symplectic Field Theory: SFT Invariants: [40526919504877216755680601905432322134980384796226602145184481280000000000000, 2350561331282878571829474910515074683828862318181142924420699914240000000000000, 138683118545689835737939019720389406345902876772687432540821294940160000000000000], Floer Homology: [57, 59, 61, 63], GW Invariants: [115, 117, 119]
+Mirror Symmetry Correction: 57/59*log(58)
+K-Theory Invariant: 3363
+Total Invariant: 8323378200992177900064926338735784887760136449064223321975843580805120000001932420/59
+
+--- Classification for Surface of Genus 58 ---
+Postnikov Invariants: [2, 116, 5017], Whitehead Product: 1653, Tertiary Homotopy: 3422
+Quantum Homotopy Correction: 1769/1770
+Gauge Theory: Donaldson Invariant: 2350561331282878571829474910515074683828862318181142924420699914240000000000000/59, SW Invariant: 288230376151711744*sqrt(58)*sqrt(pi), Instanton Correction: log(59) + 195054, Exotic Structure Analysis: 4756
+Symplectic Field Theory: SFT Invariants: [2350561331282878571829474910515074683828862318181142924420699914240000000000000, 138683118545689835737939019720389406345902876772687432540821294940160000000000000, 8320987112741390144276341183223364380754172606361245952449277696409600000000000000], Floer Homology: [58, 60, 62, 64], GW Invariants: [117, 119, 121]
+Mirror Symmetry Correction: 29/30*log(59)
+K-Theory Invariant: 3480
+Total Invariant: 8462020792618362858586109677854268861783904345452114527914519691264000000000033429
+
+--- Classification for Surface of Genus 59 ---
+Postnikov Invariants: [2, 118, 5192], Whitehead Product: 1711, Tertiary Homotopy: 3540
+Quantum Homotopy Correction: 1829/1830
+Gauge Theory: Donaldson Invariant: 2311385309094830595632316995339823439098381279544790542347021582336000000000000, SW Invariant: 576460752303423488*sqrt(59)*sqrt(pi), Instanton Correction: log(60) + 205320, Exotic Structure Analysis: 4897
+Symplectic Field Theory: SFT Invariants: [138683118545689835737939019720389406345902876772687432540821294940160000000000000, 8320987112741390144276341183223364380754172606361245952449277696409600000000000000, 507580213877224798800856812176625227226004528988036003099405939480985600000000000000], Floer Homology: [59, 61, 63, 65], GW Invariants: [119, 121, 123]
+Mirror Symmetry Correction: 59/61*log(60)
+K-Theory Invariant: 3599
+Total Invariant: 31478432930619224605633136635153707841799380872741366125548158346812456960000002080656/61
+
+--- Classification for Surface of Genus 60 ---
+Postnikov Invariants: [2, 120, 5370], Whitehead Product: 1770, Tertiary Homotopy: 3660
+Quantum Homotopy Correction: 1890/1891
+Gauge Theory: Donaldson Invariant: 8320987112741390144276341183223364380754172606361245952449277696409600000000000000/61, SW Invariant: 2305843009213693952*sqrt(15)*sqrt(pi), Instanton Correction: log(61) + 215940, Exotic Structure Analysis: 5040
+Symplectic Field Theory: SFT Invariants: [8320987112741390144276341183223364380754172606361245952449277696409600000000000000, 507580213877224798800856812176625227226004528988036003099405939480985600000000000000, 31469973260387937525653122354950764088012280797258232192163168247821107200000000000000], Floer Homology: [60, 62, 64, 66], GW Invariants: [121, 123, 125]
+Mirror Symmetry Correction: 30/31*log(61)
+K-Theory Invariant: 3720
+Total Invariant: 991562108302715015152545920757628993068190224464431512677665727414953574400000001078590/31
+
+--- Classification for Surface of Genus 61 ---
+Postnikov Invariants: [2, 122, 5551], Whitehead Product: 1830, Tertiary Homotopy: 3782
+Quantum Homotopy Correction: 1952/1953
+Gauge Theory: Donaldson Invariant: 8186777643181045141949303422203632697193621435290903275796869991628800000000000000, SW Invariant: 2305843009213693952*sqrt(61)*sqrt(pi), Instanton Correction: log(62) + 226920, Exotic Structure Analysis: 5185
+Symplectic Field Theory: SFT Invariants: [507580213877224798800856812176625227226004528988036003099405939480985600000000000000, 31469973260387937525653122354950764088012280797258232192163168247821107200000000000000, 1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000], Floer Homology: [61, 63, 65, 67], GW Invariants: [123, 125, 127]
+Mirror Symmetry Correction: 61/63*log(62)
+K-Theory Invariant: 3843
+Total Invariant: 6043757606636115679321802062587076580580035926660544688904626521400095539200000000106444/3
+
+--- Classification for Surface of Genus 62 ---
+Postnikov Invariants: [2, 124, 5735], Whitehead Product: 1891, Tertiary Homotopy: 3906
+Quantum Homotopy Correction: 2015/2016
+Gauge Theory: Donaldson Invariant: 499523385085522817867509878650012128381147314242194161780367749965414400000000000000, SW Invariant: 4611686018427387904*sqrt(62)*sqrt(pi), Instanton Correction: log(63) + 238266, Exotic Structure Analysis: 5332
+Symplectic Field Theory: SFT Invariants: [31469973260387937525653122354950764088012280797258232192163168247821107200000000000000, 1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000, 126886932185884164103433389335161480802865516174545192198801894375214704230400000000000000], Floer Homology: [62, 64, 66, 68], GW Invariants: [125, 127, 129]
+Mirror Symmetry Correction: 31/32*log(63)
+K-Theory Invariant: 3968
+Total Invariant: 2062416167592783873681203026654053275271972834329115504945605394289204081459200000000578775/16
+
+--- Classification for Surface of Genus 63 ---
+Postnikov Invariants: [2, 126, 5922], Whitehead Product: 1953, Tertiary Homotopy: 4032
+Quantum Homotopy Correction: 2079/2080
+Gauge Theory: Donaldson Invariant: 30978254928194376001814792318154658399137088909801072314160618743948902400000000000000, SW Invariant: 27670116110564327424*sqrt(7)*sqrt(pi), Instanton Correction: 6*log(2) + 249984, Exotic Structure Analysis: 5481
+Symplectic Field Theory: SFT Invariants: [1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000, 126886932185884164103433389335161480802865516174545192198801894375214704230400000000000000, 8247650592082470666723170306785496252186258551345437492922123134388955774976000000000000000], Floer Homology: [63, 65, 67, 69], GW Invariants: [127, 129, 131]
+Mirror Symmetry Correction: 378/65*log(2)
+K-Theory Invariant: 4095
+Total Invariant: 108894761723588870521579357956777255204646694935732729398737407008729181716480000000000479304/13
+
+--- Classification for Surface of Genus 64 ---
+Postnikov Invariants: [2, 128, 6112], Whitehead Product: 2016, Tertiary Homotopy: 4160
+Quantum Homotopy Correction: 2144/2145
+Gauge Theory: Donaldson Invariant: 1952106649013602524668205989771715089274854094993002956904644528849456988160000000000000, SW Invariant: 147573952589676412928*sqrt(pi), Instanton Correction: log(65) + 262080, Exotic Structure Analysis: 5632
+Symplectic Field Theory: SFT Invariants: [126886932185884164103433389335161480802865516174545192198801894375214704230400000000000000, 8247650592082470666723170306785496252186258551345437492922123134388955774976000000000000000, 544344939077443064003729240247842752644293064388798874532860126869671081148416000000000000000], Floer Homology: [64, 66, 68, 70], GW Invariants: [129, 131, 133]
+Mirror Symmetry Correction: 32/33*log(65)
+K-Theory Invariant: 4224
+Total Invariant: 6079914242618825607180114283383597514150104073019507429397791570882787767903846400000000413266/11
+
+--- Classification for Surface of Genus 65 ---
+Postnikov Invariants: [2, 130, 6305], Whitehead Product: 2080, Tertiary Homotopy: 4290
+Quantum Homotopy Correction: 2210/2211
+Gauge Theory: Donaldson Invariant: 124964402910340464647320762224022670487670584111294507468517017187711451136000000000000000, SW Invariant: 36893488147419103232*sqrt(65)*sqrt(pi), Instanton Correction: log(66) + 274560, Exotic Structure Analysis: 5785
+Symplectic Field Theory: SFT Invariants: [8247650592082470666723170306785496252186258551345437492922123134388955774976000000000000000, 544344939077443064003729240247842752644293064388798874532860126869671081148416000000000000000, 36471110918188685288249859096605464427167635314049524593701628500267962436943872000000000000000], Floer Homology: [65, 67, 69, 71], GW Invariants: [131, 133, 135]
+Mirror Symmetry Correction: 65/67*log(66)
+K-Theory Invariant: 4355
+Total Invariant: 2480588135026500125135660870979726209296295680678307816683736520268225505749106688000000002564340/67
+
+--- Classification for Surface of Genus 66 ---
+Postnikov Invariants: [2, 132, 6501], Whitehead Product: 2145, Tertiary Homotopy: 4422
+Quantum Homotopy Correction: 2277/2278
+Gauge Theory: Donaldson Invariant: 544344939077443064003729240247842752644293064388798874532860126869671081148416000000000000000/67, SW Invariant: 73786976294838206464*sqrt(66)*sqrt(pi), Instanton Correction: log(67) + 287430, Exotic Structure Analysis: 5940
+Symplectic Field Theory: SFT Invariants: [544344939077443064003729240247842752644293064388798874532860126869671081148416000000000000000, 36471110918188685288249859096605464427167635314049524593701628500267962436943872000000000000000, 2480035542436830599600990418569171581047399201355367672371710738018221445712183296000000000000000], Floer Homology: [66, 68, 70, 72], GW Invariants: [133, 135, 137]
+Mirror Symmetry Correction: 33/34*log(67)
+K-Theory Invariant: 4488
+Total Invariant: 42789866970999644375205148117402423099862589205474701929279068852971104346914684928000000000662691/17
+
+--- Classification for Surface of Genus 67 ---
+Postnikov Invariants: [2, 134, 6700], Whitehead Product: 2211, Tertiary Homotopy: 4556
+Quantum Homotopy Correction: 2345/2346
+Gauge Theory: Donaldson Invariant: 536339866443951254238968516126550947458347578147787126377965125003940624072704000000000000000, SW Invariant: 147573952589676412928*sqrt(67)*sqrt(pi), Instanton Correction: log(68) + 300696, Exotic Structure Analysis: 6097
+Symplectic Field Theory: SFT Invariants: [36471110918188685288249859096605464427167635314049524593701628500267962436943872000000000000000, 2480035542436830599600990418569171581047399201355367672371710738018221445712183296000000000000000, 171122452428141311372468338881272839092270544893520369393648040923257279754140647424000000000000000], Floer Homology: [67, 69, 71, 73], GW Invariants: [135, 137, 139]
+Mirror Symmetry Correction: 67/69*log(68)
+K-Theory Invariant: 4623
+Total Invariant: 3993696058874415605119224320655588171168137569794365091584109425664842690732664815616000000000912960/23
+
+--- Classification for Surface of Genus 68 ---
+Postnikov Invariants: [2, 136, 6902], Whitehead Product: 2278, Tertiary Homotopy: 4692
+Quantum Homotopy Correction: 2414/2415
+Gauge Theory: Donaldson Invariant: 35942544093287399994217252443031472189092742048628516990894358522003209358147584000000000000000, SW Invariant: 590295810358705651712*sqrt(17)*sqrt(pi), Instanton Correction: log(69) + 314364, Exotic Structure Analysis: 6256
+Symplectic Field Theory: SFT Invariants: [2480035542436830599600990418569171581047399201355367672371710738018221445712183296000000000000000, 171122452428141311372468338881272839092270544893520369393648040923257279754140647424000000000000000, 11978571669969891796072783721689098736458938142546425857555362864628009582789845319680000000000000000], Floer Homology: [68, 70, 72, 74], GW Invariants: [137, 139, 141]
+Mirror Symmetry Correction: 34/35*log(69)
+K-Theory Invariant: 4760
+Total Invariant: 12152174157940469938044853050988940747132256086641301594621382616289285083989698150400000000000040410
+
+--- Classification for Surface of Genus 69 ---
+Postnikov Invariants: [2, 138, 7107], Whitehead Product: 2346, Tertiary Homotopy: 4830
+Quantum Homotopy Correction: 2484/2485
+Gauge Theory: Donaldson Invariant: 2444606463259161591035261984018183415603864927050290991337829156046532567916294963200000000000000, SW Invariant: 590295810358705651712*sqrt(69)*sqrt(pi), Instanton Correction: log(70) + 328440, Exotic Structure Analysis: 6417
+Symplectic Field Theory: SFT Invariants: [171122452428141311372468338881272839092270544893520369393648040923257279754140647424000000000000000, 11978571669969891796072783721689098736458938142546425857555362864628009582789845319680000000000000000, 850478588567862317521167644239926010288584608120796235886430763388588680378079017697280000000000000000], Floer Homology: [69, 71, 73, 75], GW Invariants: [139, 141, 143]
+Mirror Symmetry Correction: 69/71*log(70)
+K-Theory Invariant: 4899
+Total Invariant: 61246608071008484894631515637335243112353642993384768930049963974883936254084233260171264000000002920236/71
+
+--- Classification for Surface of Genus 70 ---
+Postnikov Invariants: [2, 140, 7315], Whitehead Product: 2415, Tertiary Homotopy: 4970
+Quantum Homotopy Correction: 2555/2556
+Gauge Theory: Donaldson Invariant: 11978571669969891796072783721689098736458938142546425857555362864628009582789845319680000000000000000/71, SW Invariant: 1180591620717411303424*sqrt(70)*sqrt(pi), Instanton Correction: log(71) + 342930, Exotic Structure Analysis: 6580
+Symplectic Field Theory: SFT Invariants: [11978571669969891796072783721689098736458938142546425857555362864628009582789845319680000000000000000, 850478588567862317521167644239926010288584608120796235886430763388588680378079017697280000000000000000, 61234458376886086861524070385274672740778091784697328983823014963978384987221689274204160000000000000000], Floer Homology: [70, 72, 74, 76], GW Invariants: [141, 143, 145]
+Mirror Symmetry Correction: 35/36*log(71)
+K-Theory Invariant: 5040
+Total Invariant: 372581493222743514425047864879417727098818811985764029873402006541389610063095348823326720000000000251125/6
+
+--- Classification for Surface of Genus 71 ---
+Postnikov Invariants: [2, 142, 7526], Whitehead Product: 2485, Tertiary Homotopy: 5112
+Quantum Homotopy Correction: 2627/2628
+Gauge Theory: Donaldson Invariant: 11812202618998087743349550614443416809563675112788836609533760602619287227473319690240000000000000000, SW Invariant: 2361183241434822606848*sqrt(71)*sqrt(pi), Instanton Correction: log(72) + 357840, Exotic Structure Analysis: 6745
+Symplectic Field Theory: SFT Invariants: [850478588567862317521167644239926010288584608120796235886430763388588680378079017697280000000000000000, 61234458376886086861524070385274672740778091784697328983823014963978384987221689274204160000000000000000, 4470115461512684340891257138125051110076800700282905015819080092370422104067183317016903680000000000000000], Floer Homology: [71, 73, 75, 77], GW Invariants: [143, 145, 147]
+Mirror Symmetry Correction: 71/73*log(72)
+K-Theory Invariant: 5183
+Total Invariant: 330850629088904095175132073459283296744434318497327789295831636281138602674639165227542773760000000003108504/73
+
+--- Classification for Surface of Genus 72 ---
+Postnikov Invariants: [2, 144, 7740], Whitehead Product: 2556, Tertiary Homotopy: 5256
+Quantum Homotopy Correction: 2700/2701
+Gauge Theory: Donaldson Invariant: 61234458376886086861524070385274672740778091784697328983823014963978384987221689274204160000000000000000/73, SW Invariant: 28334198897217871282176*sqrt(2)*sqrt(pi), Instanton Correction: log(73) + 373176, Exotic Structure Analysis: 6912
+Symplectic Field Theory: SFT Invariants: [61234458376886086861524070385274672740778091784697328983823014963978384987221689274204160000000000000000, 4470115461512684340891257138125051110076800700282905015819080092370422104067183317016903680000000000000000, 330788544151938641225953028221253782145683251820934971170611926835411235700971565459250872320000000000000000], Floer Homology: [72, 74, 76, 78], GW Invariants: [145, 147, 149]
+Mirror Symmetry Correction: 36/37*log(73)
+K-Theory Invariant: 5328
+Total Invariant: 12406836080657643831187114948901271993354530732681095220070348707881588539030960907225053265920000000001602630/37
+
+--- Classification for Surface of Genus 73 ---
+Postnikov Invariants: [2, 146, 7957], Whitehead Product: 2628, Tertiary Homotopy: 5402
+Quantum Homotopy Correction: 2774/2775
+Gauge Theory: Donaldson Invariant: 60406965696117355957989961326014204190227036490309527240798379626627325730637612392120320000000000000000, SW Invariant: 9444732965739290427392*sqrt(73)*sqrt(pi), Instanton Correction: log(74) + 388944, Exotic Structure Analysis: 7081
+Symplectic Field Theory: SFT Invariants: [4470115461512684340891257138125051110076800700282905015819080092370422104067183317016903680000000000000000, 330788544151938641225953028221253782145683251820934971170611926835411235700971565459250872320000000000000000, 24809140811395398091946477116594033660926243886570122837795894512655842677572867409443815424000000000000000000], Floer Homology: [73, 75, 77, 79], GW Invariants: [147, 149, 151]
+Mirror Symmetry Correction: 73/75*log(74)
+K-Theory Invariant: 5475
+Total Invariant: 125721997355044247087566607009767062470910019695456703569911627597918121676889530791100416000000000000000220252/5
+
+--- Classification for Surface of Genus 74 ---
+Postnikov Invariants: [2, 148, 8177], Whitehead Product: 2701, Tertiary Homotopy: 5550
+Quantum Homotopy Correction: 2849/2850
+Gauge Theory: Donaldson Invariant: 4410513922025848549679373709616717095275776690945799615608159024472149809346287539456678297600000000000000, SW Invariant: 18889465931478580854784*sqrt(74)*sqrt(pi), Instanton Correction: log(75) + 405150, Exotic Structure Analysis: 7252
+Symplectic Field Theory: SFT Invariants: [330788544151938641225953028221253782145683251820934971170611926835411235700971565459250872320000000000000000, 24809140811395398091946477116594033660926243886570122837795894512655842677572867409443815424000000000000000000, 1885494701666050254987932260861146558230394535379329335672487982961844043495537923117729972224000000000000000000], Floer Homology: [74, 76, 78, 80], GW Invariants: [149, 151, 153]
+Mirror Symmetry Correction: 37/38*log(75)
+K-Theory Invariant: 5624
+Total Invariant: 36302057989410354242700989129113275067795862787836687476147635298625370650767423479760027731886080000000000851019/19
+
+--- Classification for Surface of Genus 75 ---
+Postnikov Invariants: [2, 150, 8400], Whitehead Product: 2775, Tertiary Homotopy: 5700
+Quantum Homotopy Correction: 2925/2926
+Gauge Theory: Donaldson Invariant: 326436063307834185420348383113079390275345314296975300497314401482313719441748255387418624000000000000000000, SW Invariant: 188894659314785808547840*sqrt(3)*sqrt(pi), Instanton Correction: log(76) + 421800, Exotic Structure Analysis: 7425
+Symplectic Field Theory: SFT Invariants: [24809140811395398091946477116594033660926243886570122837795894512655842677572867409443815424000000000000000000, 1885494701666050254987932260861146558230394535379329335672487982961844043495537923117729972224000000000000000000, 145183092028285869634070784086308284983740379224208358846781574688061991349156420080065207861248000000000000000000], Floer Homology: [75, 77, 79, 81], GW Invariants: [151, 153, 155]
+Mirror Symmetry Correction: 75/77*log(76)
+K-Theory Invariant: 5775
+Total Invariant: 1618027354578396468158657291067146281331948700038216841358210444220901403588624839576516198137856000000000000500880/11
+
+--- Classification for Surface of Genus 76 ---
+Postnikov Invariants: [2, 152, 8626], Whitehead Product: 2850, Tertiary Homotopy: 5852
+Quantum Homotopy Correction: 3002/3003
+Gauge Theory: Donaldson Invariant: 24486944177481172142700418972222682574420708251679601761980363415088883681760232767762726912000000000000000000, SW Invariant: 151115727451828646838272*sqrt(19)*sqrt(pi), Instanton Correction: log(77) + 438900, Exotic Structure Analysis: 7600
+Symplectic Field Theory: SFT Invariants: [1885494701666050254987932260861146558230394535379329335672487982961844043495537923117729972224000000000000000000, 145183092028285869634070784086308284983740379224208358846781574688061991349156420080065207861248000000000000000000, 11324281178206297831457521158732046228731749579488251990048962825668835325234200766245086213177344000000000000000000], Floer Homology: [76, 78, 80, 82], GW Invariants: [153, 155, 157]
+Mirror Symmetry Correction: 38/39*log(77)
+K-Theory Invariant: 5928
+Total Invariant: 149127546944171246767505538376029803583558364592221915817008419548418169088149085415227498963140608000000000000601674/13
+
+--- Classification for Surface of Genus 77 ---
+Postnikov Invariants: [2, 154, 8855], Whitehead Product: 2926, Tertiary Homotopy: 6006
+Quantum Homotopy Correction: 3080/3081
+Gauge Theory: Donaldson Invariant: 1861321692670331661975266462644978012612056143900107164702327880616179376271236154872630870016000000000000000000, SW Invariant: 151115727451828646838272*sqrt(77)*sqrt(pi), Instanton Correction: log(78) + 456456, Exotic Structure Analysis: 7777
+Symplectic Field Theory: SFT Invariants: [145183092028285869634070784086308284983740379224208358846781574688061991349156420080065207861248000000000000000000, 11324281178206297831457521158732046228731749579488251990048962825668835325234200766245086213177344000000000000000000, 894618213078297528685144171539831652069808216779571907213868063227837990693501860533361810841010176000000000000000000], Floer Homology: [77, 79, 81, 83], GW Invariants: [155, 157, 159]
+Mirror Symmetry Correction: 77/79*log(78)
+K-Theory Invariant: 6083
+Total Invariant: 71580926510534036878512625315129350520098372832324465037458340802627396152796732199855270018701852672000000000003715740/79
+
+--- Classification for Surface of Genus 78 ---
+Postnikov Invariants: [2, 156, 9087], Whitehead Product: 3003, Tertiary Homotopy: 6162
+Quantum Homotopy Correction: 3159/3160
+Gauge Theory: Donaldson Invariant: 11324281178206297831457521158732046228731749579488251990048962825668835325234200766245086213177344000000000000000000/79, SW Invariant: 302231454903657293676544*sqrt(78)*sqrt(pi), Instanton Correction: log(79) + 474474, Exotic Structure Analysis: 7956
+Symplectic Field Theory: SFT Invariants: [11324281178206297831457521158732046228731749579488251990048962825668835325234200766245086213177344000000000000000000, 894618213078297528685144171539831652069808216779571907213868063227837990693501860533361810841010176000000000000000000, 71569457046263802294811533723186532165584657342365752577109445058227039255480148842668944867280814080000000000000000000], Floer Homology: [78, 80, 82, 84], GW Invariants: [157, 159, 161]
+Mirror Symmetry Correction: 39/40*log(79)
+K-Theory Invariant: 6240
+Total Invariant: 289901598162081224485312541663540383455532789234899250945253448337122184325995539615874207057340006400000000000000191163/4
+
+--- Classification for Surface of Genus 79 ---
+Postnikov Invariants: [2, 158, 9322], Whitehead Product: 3081, Tertiary Homotopy: 6320
+Quantum Homotopy Correction: 3239/3240
+Gauge Theory: Donaldson Invariant: 11182727663478719108564302144247895650872602709744648840173350790347974883668773256667022635512627200000000000000000, SW Invariant: 604462909807314587353088*sqrt(79)*sqrt(pi), Instanton Correction: log(80) + 492960, Exotic Structure Analysis: 8137
+Symplectic Field Theory: SFT Invariants: [894618213078297528685144171539831652069808216779571907213868063227837990693501860533361810841010176000000000000000000, 71569457046263802294811533723186532165584657342365752577109445058227039255480148842668944867280814080000000000000000000, 5797126020747367985879734231578109105412357244731625958745865049716390179693892056256184534249745940480000000000000000000], Floer Homology: [79, 81, 83, 85], GW Invariants: [159, 161, 163]
+Mirror Symmetry Correction: 79/81*log(80)
+K-Theory Invariant: 6399
+Total Invariant: 158478932592181172313987234555766557669210316177850824647215085796621816537381774087903444705052429647872000000000001310872/27
+
+--- Classification for Surface of Genus 80 ---
+Postnikov Invariants: [2, 160, 9560], Whitehead Product: 3160, Tertiary Homotopy: 6480
+Quantum Homotopy Correction: 3320/3321
+Gauge Theory: Donaldson Invariant: 883573543781034596232241157076376940315859967189700649100116605657123941425680849909493146509639680000000000000000000, SW Invariant: 4835703278458516698824704*sqrt(5)*sqrt(pi), Instanton Correction: 4*log(3) + 511920, Exotic Structure Analysis: 8320
+Symplectic Field Theory: SFT Invariants: [71569457046263802294811533723186532165584657342365752577109445058227039255480148842668944867280814080000000000000000000, 5797126020747367985879734231578109105412357244731625958745865049716390179693892056256184534249745940480000000000000000000, 475364333701284174842138206989404946643813294067993328617160934076743994734899148613007131808479167119360000000000000000000], Floer Homology: [80, 82, 84, 86], GW Invariants: [161, 163, 165]
+Mirror Symmetry Correction: 160/41*log(3)
+K-Theory Invariant: 6560
+Total Invariant: 19730554196342190071842822862942955933537040674772760133467840251432263090107789353542345396791443948830720000000000002021910/41
+
+--- Classification for Surface of Genus 81 ---
+Postnikov Invariants: [2, 162, 9801], Whitehead Product: 3240, Tertiary Homotopy: 6642
+Quantum Homotopy Correction: 3402/3403
+Gauge Theory: Donaldson Invariant: 70696658789602048608289441848513525675760454204044219009095915240443782679193805564099811393289584640000000000000000000, SW Invariant: 21760664753063325144711168*sqrt(pi), Instanton Correction: log(82) + 531360, Exotic Structure Analysis: 8505
+Symplectic Field Theory: SFT Invariants: [5797126020747367985879734231578109105412357244731625958745865049716390179693892056256184534249745940480000000000000000000, 475364333701284174842138206989404946643813294067993328617160934076743994734899148613007131808479167119360000000000000000000, 39455239697206586511897471180120610571436503407643446275224357528369751562996629334879591940103770870906880000000000000000000], Floer Homology: [81, 83, 85, 87], GW Invariants: [163, 165, 167]
+Mirror Symmetry Correction: 81/83*log(82)
+K-Theory Invariant: 6723
+Total Invariant: 3314721296025075298542215597071352271056415511893362212073421939182185591676631457170554986285059482069237760000000000004156884/83
+
+--- Classification for Surface of Genus 82 ---
+Postnikov Invariants: [2, 164, 10045], Whitehead Product: 3321, Tertiary Homotopy: 6806
+Quantum Homotopy Correction: 3485/3486
+Gauge Theory: Donaldson Invariant: 475364333701284174842138206989404946643813294067993328617160934076743994734899148613007131808479167119360000000000000000000/83, SW Invariant: 4835703278458516698824704*sqrt(82)*sqrt(pi), Instanton Correction: log(83) + 551286, Exotic Structure Analysis: 8692
+Symplectic Field Theory: SFT Invariants: [475364333701284174842138206989404946643813294067993328617160934076743994734899148613007131808479167119360000000000000000000, 39455239697206586511897471180120610571436503407643446275224357528369751562996629334879591940103770870906880000000000000000000, 3314240134565353266999387579130131288000666286242049487118846032383059131291716864129885722968716753156177920000000000000000000], Floer Homology: [82, 84, 86, 88], GW Invariants: [165, 167, 169]
+Mirror Symmetry Correction: 41/42*log(83)
+K-Theory Invariant: 6888
+Total Invariant: 3354170738596261137686127188517241303518746602943760926722687550845505626849448392613378322040629003194204160000000000000050855
+
+--- Classification for Surface of Genus 83 ---
+Postnikov Invariants: [2, 166, 10292], Whitehead Product: 3403, Tertiary Homotopy: 6972
+Quantum Homotopy Correction: 3569/3570
+Gauge Theory: Donaldson Invariant: 469705234490554601332112752144292982993291707233850550895528065813925613845197968272376094525044891320320000000000000000000, SW Invariant: 9671406556917033397649408*sqrt(83)*sqrt(pi), Instanton Correction: log(84) + 571704, Exotic Structure Analysis: 8881
+Symplectic Field Theory: SFT Invariants: [39455239697206586511897471180120610571436503407643446275224357528369751562996629334879591940103770870906880000000000000000000, 3314240134565353266999387579130131288000666286242049487118846032383059131291716864129885722968716753156177920000000000000000000, 281710411438055027694947944226061159480056634330574206405101912752560026159795933451040286452340924018275123200000000000000000000], Floer Homology: [83, 85, 87, 89], GW Invariants: [167, 169, 171]
+Mirror Symmetry Correction: 83/85*log(84)
+K-Theory Invariant: 7055
+Total Invariant: 4846089815809398988323806897698313993436688531043806288754431713422014735725060998056585880043245657219137536000000000000000877728/17
+
+--- Classification for Surface of Genus 84 ---
+Postnikov Invariants: [2, 168, 10542], Whitehead Product: 3486, Tertiary Homotopy: 7140
+Quantum Homotopy Correction: 3654/3655
+Gauge Theory: Donaldson Invariant: 38991060406651214905875147989766250447066662191082935142574659204506578015196668989763361446690785331249152000000000000000000, SW Invariant: 38685626227668133590597632*sqrt(21)*sqrt(pi), Instanton Correction: log(85) + 592620, Exotic Structure Analysis: 9072
+Symplectic Field Theory: SFT Invariants: [3314240134565353266999387579130131288000666286242049487118846032383059131291716864129885722968716753156177920000000000000000000, 281710411438055027694947944226061159480056634330574206405101912752560026159795933451040286452340924018275123200000000000000000000, 24227095383672732381765523203441259715284870552429381750838764496720162249742450276789464634901319465571660595200000000000000000000], Floer Homology: [84, 86, 88, 90], GW Invariants: [169, 171, 173]
+Mirror Symmetry Correction: 42/43*log(85)
+K-Theory Invariant: 7224
+Total Invariant: 1054021161515550168797281233015597393260275897680986514289432365986719529406442130865499296704295051572752951541760000000000002253678/43
+
+--- Classification for Surface of Genus 85 ---
+Postnikov Invariants: [2, 170, 10795], Whitehead Product: 3570, Tertiary Homotopy: 7310
+Quantum Homotopy Correction: 3740/3741
+Gauge Theory: Donaldson Invariant: 3275702458582035205755208653791408831163449236402025655873278055262325885579022481988840540143499116491571200000000000000000000, SW Invariant: 38685626227668133590597632*sqrt(85)*sqrt(pi), Instanton Correction: log(86) + 614040, Exotic Structure Analysis: 9265
+Symplectic Field Theory: SFT Invariants: [281710411438055027694947944226061159480056634330574206405101912752560026159795933451040286452340924018275123200000000000000000000, 24227095383672732381765523203441259715284870552429381750838764496720162249742450276789464634901319465571660595200000000000000000000, 2107757298379527717213600518699389595229783738061356212322972511214654115727593174080683423236414793504734471782400000000000000000000], Floer Homology: [85, 87, 89, 91], GW Invariants: [171, 173, 175]
+Mirror Symmetry Correction: 85/87*log(86)
+K-Theory Invariant: 7395
+Total Invariant: 61835717021064516634068768705564650567031911292195368880126274951099678302101367188436793916575285162935407817523200000000000001542660/29
+
+--- Classification for Surface of Genus 86 ---
+Postnikov Invariants: [2, 172, 11051], Whitehead Product: 3655, Tertiary Homotopy: 7482
+Quantum Homotopy Correction: 3827/3828
+Gauge Theory: Donaldson Invariant: 278472360731870487146730151763692640405573224740567606331480051686438646548763796284936375113808269719214489600000000000000000000, SW Invariant: 77371252455336267181195264*sqrt(86)*sqrt(pi), Instanton Correction: log(87) + 635970, Exotic Structure Analysis: 9460
+Symplectic Field Theory: SFT Invariants: [24227095383672732381765523203441259715284870552429381750838764496720162249742450276789464634901319465571660595200000000000000000000, 2107757298379527717213600518699389595229783738061356212322972511214654115727593174080683423236414793504734471782400000000000000000000, 185482642257398439114796845645546284380220968949399346684421580986889562184028199319100141244804501828416633516851200000000000000000000], Floer Homology: [86, 88, 90, 92], GW Invariants: [173, 175, 177]
+Mirror Symmetry Correction: 43/44*log(87)
+K-Theory Invariant: 7568
+Total Invariant: 4127521786325556070416628657123880535173652826276288910126898629777220602164121768756067510918867994710512672283033600000000000001187631/22
+
+--- Classification for Surface of Genus 87 ---
+Postnikov Invariants: [2, 174, 11310], Whitehead Product: 3741, Tertiary Homotopy: 7656
+Quantum Homotopy Correction: 3915/3916
+Gauge Theory: Donaldson Invariant: 23951787481585542241063642257947609036702087932515411503670142172893796769631740614553220718595622653462891724800000000000000000000, SW Invariant: 154742504910672534362390528*sqrt(87)*sqrt(pi), Instanton Correction: log(88) + 658416, Exotic Structure Analysis: 9657
+Symplectic Field Theory: SFT Invariants: [2107757298379527717213600518699389595229783738061356212322972511214654115727593174080683423236414793504734471782400000000000000000000, 185482642257398439114796845645546284380220968949399346684421580986889562184028199319100141244804501828416633516851200000000000000000000, 16507955160908461081216919262453619309839666236496541854913520707833171034378509739399912570787600662729080382999756800000000000000000000], Floer Homology: [87, 89, 91, 93], GW Invariants: [175, 177, 179]
+Mirror Symmetry Correction: 87/89*log(88)
+K-Theory Invariant: 7743
+Total Invariant: 1485903554881317275276354744066989983559545412037376227645113608258483497310365632338485312195552100562239155837966745600000000000004875000/89
+
+--- Classification for Surface of Genus 88 ---
+Postnikov Invariants: [2, 176, 11572], Whitehead Product: 3828, Tertiary Homotopy: 7832
+Quantum Homotopy Correction: 4004/4005
+Gauge Theory: Donaldson Invariant: 185482642257398439114796845645546284380220968949399346684421580986889562184028199319100141244804501828416633516851200000000000000000000/89, SW Invariant: 618970019642690137449562112*sqrt(22)*sqrt(pi), Instanton Correction: log(89) + 681384, Exotic Structure Analysis: 9856
+Symplectic Field Theory: SFT Invariants: [185482642257398439114796845645546284380220968949399346684421580986889562184028199319100141244804501828416633516851200000000000000000000, 16507955160908461081216919262453619309839666236496541854913520707833171034378509739399912570787600662729080382999756800000000000000000000, 1485715964481761497309522733620825737885569961284688766942216863704985393094065876545992131370884059645617234469978112000000000000000000000], Floer Homology: [88, 90, 92, 94], GW Invariants: [177, 179, 181]
+Mirror Symmetry Correction: 44/45*log(89)
+K-Theory Invariant: 7920
+Total Invariant: 4507228206854782070489563349186774710439369545470404124431444417981416361071885243454133432248749394430524194459484160000000000000000166714/3
+
+--- Classification for Surface of Genus 89 ---
+Postnikov Invariants: [2, 178, 11837], Whitehead Product: 3916, Tertiary Homotopy: 8010
+Quantum Homotopy Correction: 4094/4095
+Gauge Theory: Donaldson Invariant: 183421724010094012013521325138373547887107402627739353943483563420368567048650108215554584119862229585878670922219520000000000000000000, SW Invariant: 618970019642690137449562112*sqrt(89)*sqrt(pi), Instanton Correction: log(90) + 704880, Exotic Structure Analysis: 10057
+Symplectic Field Theory: SFT Invariants: [16507955160908461081216919262453619309839666236496541854913520707833171034378509739399912570787600662729080382999756800000000000000000000, 1485715964481761497309522733620825737885569961284688766942216863704985393094065876545992131370884059645617234469978112000000000000000000000, 135200152767840296255166568759495142147586866476906677791741734597153670771559994765685283954750449427751168336768008192000000000000000000000], Floer Homology: [89, 91, 93, 95], GW Invariants: [179, 181, 183]
+Mirror Symmetry Correction: 89/91*log(90)
+K-Theory Invariant: 8099
+Total Invariant: 1777130896937278560776245009360919479562169589357562220307005244760364361363949708975618787982997574144773690471072818790400000000000000732828/13
+
+--- Classification for Surface of Genus 90 ---
+Postnikov Invariants: [2, 180, 12105], Whitehead Product: 4005, Tertiary Homotopy: 8190
+Quantum Homotopy Correction: 4185/4186
+Gauge Theory: Donaldson Invariant: 16326549060239137333071678391437645471269999574557019416947438062692147176857866775230682762317407248852936642527232000000000000000000000, SW Invariant: 3713820117856140824697372672*sqrt(10)*sqrt(pi), Instanton Correction: log(91) + 728910, Exotic Structure Analysis: 10260
+Symplectic Field Theory: SFT Invariants: [1485715964481761497309522733620825737885569961284688766942216863704985393094065876545992131370884059645617234469978112000000000000000000000, 135200152767840296255166568759495142147586866476906677791741734597153670771559994765685283954750449427751168336768008192000000000000000000000, 12438414054641307255475324325873553077577991715875414356840239582938137710983519518443046123837041347353107486982656753664000000000000000000000], Floer Homology: [90, 92, 94, 96], GW Invariants: [181, 183, 185]
+Mirror Symmetry Correction: 45/46*log(91)
+K-Theory Invariant: 8280
+Total Invariant: 289227298237593474204239409599433388045659675503212931638175241291176916444407992318961380198232741659331598268739579019264000000000000001315035/23
+
+--- Classification for Surface of Genus 91 ---
+Postnikov Invariants: [2, 182, 12376], Whitehead Product: 4095, Tertiary Homotopy: 8372
+Quantum Homotopy Correction: 4277/4278
+Gauge Theory: Donaldson Invariant: 1469566877911307567990940964777121110299857244314203019475453636925583377951739073540057434290765754649469221051826176000000000000000000000, SW Invariant: 2475880078570760549798248448*sqrt(91)*sqrt(pi), Instanton Correction: log(92) + 753480, Exotic Structure Analysis: 10465
+Symplectic Field Theory: SFT Invariants: [135200152767840296255166568759495142147586866476906677791741734597153670771559994765685283954750449427751168336768008192000000000000000000000, 12438414054641307255475324325873553077577991715875414356840239582938137710983519518443046123837041347353107486982656753664000000000000000000000, 1156772507081641574759205162306240436214753229576413535186142281213246807121467315215203289516844845303838996289387078090752000000000000000000000], Floer Homology: [91, 93, 95, 97], GW Invariants: [183, 185, 187]
+Mirror Symmetry Correction: 91/93*log(92)
+K-Theory Invariant: 8463
+Total Invariant: 36249729759960572391639005249227078017468843052921741542844002138454245053599894236580772648663735750119215503285901588430848000000000000001797488/31
+
+--- Classification for Surface of Genus 92 ---
+Postnikov Invariants: [2, 184, 12650], Whitehead Product: 4186, Tertiary Homotopy: 8556
+Quantum Homotopy Correction: 4370/4371
+Gauge Theory: Donaldson Invariant: 133746387684315131779304562643801645995462276514789401686454189063850943128855048585409098105774638143581800935297384448000000000000000000000, SW Invariant: 9903520314283042199192993792*sqrt(23)*sqrt(pi), Instanton Correction: log(93) + 778596, Exotic Structure Analysis: 10672
+Symplectic Field Theory: SFT Invariants: [12438414054641307255475324325873553077577991715875414356840239582938137710983519518443046123837041347353107486982656753664000000000000000000000, 1156772507081641574759205162306240436214753229576413535186142281213246807121467315215203289516844845303838996289387078090752000000000000000000000, 108736615665674308027365285256786601004186803580182872307497374434045199869417927630229109214583415458560865651202385340530688000000000000000000000], Floer Homology: [92, 94, 96, 98], GW Invariants: [185, 187, 189]
+Mirror Symmetry Correction: 46/47*log(93)
+K-Theory Invariant: 8648
+Total Invariant: 5165573849580097772740858389940679604693519335669332579080896776877545086269767787853249510860532575224966714484001488542629888000000000000002763390/47
+
+--- Classification for Surface of Genus 93 ---
+Postnikov Invariants: [2, 186, 12927], Whitehead Product: 4278, Tertiary Homotopy: 8742
+Quantum Homotopy Correction: 4464/4465
+Gauge Theory: Donaldson Invariant: 12306090500868527391055374067087664215050566272089505693469598736311136245973056544842588186349413247913180811589224235008000000000000000000000, SW Invariant: 9903520314283042199192993792*sqrt(93)*sqrt(pi), Instanton Correction: log(94) + 804264, Exotic Structure Analysis: 10881
+Symplectic Field Theory: SFT Invariants: [1156772507081641574759205162306240436214753229576413535186142281213246807121467315215203289516844845303838996289387078090752000000000000000000000, 108736615665674308027365285256786601004186803580182872307497374434045199869417927630229109214583415458560865651202385340530688000000000000000000000, 10329978488239059262599702099394727095397746340117372869212250571234293987594703124871765375385424468563282236864226607350415360000000000000000000000], Floer Homology: [93, 95, 97, 99], GW Invariants: [187, 189, 191]
+Mirror Symmetry Correction: 93/95*log(94)
+K-Theory Invariant: 8835
+Total Invariant: 198357565651824489031834705206462578799924810041615510946043747671041496251153607876526984069900969848475791888722649215611699200000000000000001132620/19
+
+--- Classification for Surface of Genus 94 ---
+Postnikov Invariants: [2, 188, 13207], Whitehead Product: 4371, Tertiary Homotopy: 8930
+Quantum Homotopy Correction: 4559/4560
+Gauge Theory: Donaldson Invariant: 1144595954375519031867003002703016852675650564001924971657867099305738945993872922423464307521930689037482796328446161479270400000000000000000000, SW Invariant: 19807040628566084398385987584*sqrt(94)*sqrt(pi), Instanton Correction: log(95) + 830490, Exotic Structure Analysis: 11092
+Symplectic Field Theory: SFT Invariants: [108736615665674308027365285256786601004186803580182872307497374434045199869417927630229109214583415458560865651202385340530688000000000000000000000, 10329978488239059262599702099394727095397746340117372869212250571234293987594703124871765375385424468563282236864226607350415360000000000000000000000, 991677934870949689209571401541893801158183648651267795444376054838492222809091499987689476037000748982075094738965754305639874560000000000000000000000], Floer Homology: [94, 96, 98, 100], GW Invariants: [189, 191, 193]
+Mirror Symmetry Correction: 47/48*log(95)
+K-Theory Invariant: 9024
+Total Invariant: 8016933199798835382241587751412362518836684654359722809487166422273284495972444968321531764172806054928775502731849466386646564864000000000000000483453/8
+
+--- Classification for Surface of Genus 95 ---
+Postnikov Invariants: [2, 190, 13490], Whitehead Product: 4465, Tertiary Homotopy: 9120
+Quantum Homotopy Correction: 4655/4656
+Gauge Theory: Donaldson Invariant: 107603942585823533985413563535361740577059857709555967387627610117023895704111490884080889326931504880867523300669027159900160000000000000000000000, SW Invariant: 39614081257132168796771975168*sqrt(95)*sqrt(pi), Instanton Correction: log(96) + 857280, Exotic Structure Analysis: 11305
+Symplectic Field Theory: SFT Invariants: [10329978488239059262599702099394727095397746340117372869212250571234293987594703124871765375385424468563282236864226607350415360000000000000000000000, 991677934870949689209571401541893801158183648651267795444376054838492222809091499987689476037000748982075094738965754305639874560000000000000000000000, 96192759682482119853328425949563698712343813919172976158104477319333745612481875498805879175589072651261284189679678167647067832320000000000000000000000], Floer Homology: [95, 97, 99, 101], GW Invariants: [191, 193, 195]
+Mirror Symmetry Correction: 95/97*log(96)
+K-Theory Invariant: 9215
+Total Invariant: 9427892456796606934374657914160883762337947345473943048662552365600116796540020485086088720449141505997056488965584290410325637857280000000000000005941800/97
+
+--- Classification for Surface of Genus 96 ---
+Postnikov Invariants: [2, 192, 13776], Whitehead Product: 4560, Tertiary Homotopy: 9312
+Quantum Homotopy Correction: 4752/4753
+Gauge Theory: Donaldson Invariant: 991677934870949689209571401541893801158183648651267795444376054838492222809091499987689476037000748982075094738965754305639874560000000000000000000000/97, SW Invariant: 316912650057057350374175801344*sqrt(6)*sqrt(pi), Instanton Correction: log(97) + 884640, Exotic Structure Analysis: 11520
+Symplectic Field Theory: SFT Invariants: [991677934870949689209571401541893801158183648651267795444376054838492222809091499987689476037000748982075094738965754305639874560000000000000000000000, 96192759682482119853328425949563698712343813919172976158104477319333745612481875498805879175589072651261284189679678167647067832320000000000000000000000, 9426890448883247745626185743057242473809693764078951663494238777294707070023223798882976159207729119823605850588608460429412647567360000000000000000000000], Floer Homology: [96, 98, 100, 102], GW Invariants: [193, 195, 197]
+Mirror Symmetry Correction: 48/49*log(97)
+K-Theory Invariant: 9408
+Total Invariant: 66668524205504205706181066182858436464262370331527431352134513414682155155009603361172388095015486352566944469111189730459557486919680000000000000000434586/7
+
+--- Classification for Surface of Genus 97 ---
+Postnikov Invariants: [2, 194, 14065], Whitehead Product: 4656, Tertiary Homotopy: 9506
+Quantum Homotopy Correction: 4850/4851
+Gauge Theory: Donaldson Invariant: 981558772270225712789065570913915292983100142032377307735759972646262710331447709171488563016215027053686573364078348649459875840000000000000000000000, SW Invariant: 158456325028528675187087900672*sqrt(97)*sqrt(pi), Instanton Correction: log(98) + 912576, Exotic Structure Analysis: 11737
+Symplectic Field Theory: SFT Invariants: [96192759682482119853328425949563698712343813919172976158104477319333745612481875498805879175589072651261284189679678167647067832320000000000000000000000, 9426890448883247745626185743057242473809693764078951663494238777294707070023223798882976159207729119823605850588608460429412647567360000000000000000000000, 933262154439441526816992388562667004907159682643816214685929638952175999932299156089414639761565182862536979208272237582511852109168640000000000000000000000], Floer Homology: [97, 99, 101, 103], GW Invariants: [195, 197, 199]
+Mirror Symmetry Correction: 97/99*log(98)
+K-Theory Invariant: 9603
+Total Invariant: 31111912842384239470521572790145235765629496767319873197744205412824071344681850438205281919398300534815390929320667348796594090210754560000000000000002076220/33
+
+--- Classification for Surface of Genus 98 ---
+Postnikov Invariants: [2, 196, 14357], Whitehead Product: 4753, Tertiary Homotopy: 9702
+Quantum Homotopy Correction: 4949/4950
+Gauge Theory: Donaldson Invariant: 95221115645285330763900866091487297715249431960393451146406452295906132020436604029120971305128576967915210612006146064943562096640000000000000000000000, SW Invariant: 2218388550399401452619230609408*sqrt(2)*sqrt(pi), Instanton Correction: log(99) + 941094, Exotic Structure Analysis: 11956
+Symplectic Field Theory: SFT Invariants: [9426890448883247745626185743057242473809693764078951663494238777294707070023223798882976159207729119823605850588608460429412647567360000000000000000000000, 933262154439441526816992388562667004907159682643816214685929638952175999932299156089414639761565182862536979208272237582511852109168640000000000000000000000, 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000], Floer Homology: [98, 100, 102, 104], GW Invariants: [197, 199, 201]
+Mirror Symmetry Correction: 49/50*log(99)
+K-Theory Invariant: 9800
+Total Invariant: 471344522444162387281309287152862123690484688203947583174711938864735353501161189944148807960386455991180292529430423021470632378368000000000000000000000318759/5
+
+--- Classification for Surface of Genus 99 ---
+Postnikov Invariants: [2, 198, 14652], Whitehead Product: 4851, Tertiary Homotopy: 9900
+Quantum Homotopy Correction: 5049/5050
+Gauge Theory: Donaldson Invariant: 9332621544394415268169923885626670049071596826438162146859296389521759999322991560894146397615651828625369792082722375825118521091686400000000000000000000, SW Invariant: 1901475900342344102245054808064*sqrt(11)*sqrt(pi), Instanton Correction: 2*log(10) + 970200, Exotic Structure Analysis: 12177
+Symplectic Field Theory: SFT Invariants: [933262154439441526816992388562667004907159682643816214685929638952175999932299156089414639761565182862536979208272237582511852109168640000000000000000000000, 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000, 9425947759838359420851623124482936749562312794702543768327889353416977599316221476503087861591808346911623490003549599583369706302603264000000000000000000000000], Floer Homology: [99, 101, 103, 105], GW Invariants: [199, 201, 203]
+Mirror Symmetry Correction: 198/101*log(10)
+K-Theory Invariant: 9999
+Total Invariant: 961540930981111044521074074928504377822851528187606489807127992942065884906247752818079992760980369468454712215262094653499543739928558960640000000000000006523776/101
+
+--- Classification for Surface of Genus 100 ---
+Postnikov Invariants: [2, 200, 14950], Whitehead Product: 4950, Tertiary Homotopy: 10100
+Quantum Homotopy Correction: 5150/5151
+Gauge Theory: Donaldson Invariant: 93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000/101, SW Invariant: 12676506002282294014967032053760*sqrt(pi), Instanton Correction: log(101) + 999900, Exotic Structure Analysis: 12400
+Symplectic Field Theory: SFT Invariants: [93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000, 9425947759838359420851623124482936749562312794702543768327889353416977599316221476503087861591808346911623490003549599583369706302603264000000000000000000000000, 961446671503512660926865558697259548455355905059659464369444714048531715130254590603314961882364451384985595980362059157503710042865532928000000000000000000000000], Floer Homology: [100, 102, 104, 106], GW Invariants: [201, 203, 205]
+Mirror Symmetry Correction: 50/51*log(101)
+K-Theory Invariant: 10200
+Total Invariant: 16506421073139514396506780978030178782391951874984648625907100338219346475602588713922258850534851076253119043860869411674370625884443901952000000000000000001112410/17
+
+--- Classification for Surface of Genus 101 ---
+Postnikov Invariants: [2, 202, 15251], Whitehead Product: 5050, Tertiary Homotopy: 10302
+Quantum Homotopy Correction: 5252/5253
+Gauge Theory: Donaldson Invariant: 92411252547434896282859050240028791662375615634338664395371464249186054895257073299049880995998121048153171470623035290033036336300032000000000000000000000000, SW Invariant: 2535301200456458802993406410752*sqrt(101)*sqrt(pi), Instanton Correction: log(102) + 1030200, Exotic Structure Analysis: 12625
+Symplectic Field Theory: SFT Invariants: [9425947759838359420851623124482936749562312794702543768327889353416977599316221476503087861591808346911623490003549599583369706302603264000000000000000000000000, 961446671503512660926865558697259548455355905059659464369444714048531715130254590603314961882364451384985595980362059157503710042865532928000000000000000000000000, 99029007164861804075467152545817733490901658221144924830052805546998766658416222832141441073883538492653516385977292093222882134415149891584000000000000000000000000], Floer Homology: [101, 103, 105, 107], GW Invariants: [203, 205, 207]
+Mirror Symmetry Correction: 101/103*log(102)
+K-Theory Invariant: 10403
+Total Invariant: 10299987617764890974868931581946866025538977373216926544333629549491273681168016745354789689733631959495697601361108743303936829058924756860928000000000000000006827244/103
+
+--- Classification for Surface of Genus 102 ---
+Postnikov Invariants: [2, 204, 15555], Whitehead Product: 5151, Tertiary Homotopy: 10506
+Quantum Homotopy Correction: 5355/5356
+Gauge Theory: Donaldson Invariant: 961446671503512660926865558697259548455355905059659464369444714048531715130254590603314961882364451384985595980362059157503710042865532928000000000000000000000000/103, SW Invariant: 5070602400912917605986812821504*sqrt(102)*sqrt(pi), Instanton Correction: log(103) + 1061106, Exotic Structure Analysis: 12852
+Symplectic Field Theory: SFT Invariants: [961446671503512660926865558697259548455355905059659464369444714048531715130254590603314961882364451384985595980362059157503710042865532928000000000000000000000000, 99029007164861804075467152545817733490901658221144924830052805546998766658416222832141441073883538492653516385977292093222882134415149891584000000000000000000000000, 10299016745145627623848583864765044283053772454999072182325491776887871732475287174542709871683888003235965704141638377695179741979175588724736000000000000000000000000], Floer Homology: [102, 104, 106, 108], GW Invariants: [205, 207, 209]
+Mirror Symmetry Correction: 51/52*log(103)
+K-Theory Invariant: 10608
+Total Invariant: 270374187173531816455209424954608541178421366197257195932117764705871894802069674951101820320711001560680109359213496828036563323414473707880448000000000000000001745535/26
+
+--- Classification for Surface of Genus 103 ---
+Postnikov Invariants: [2, 206, 15862], Whitehead Product: 5253, Tertiary Homotopy: 10712
+Quantum Homotopy Correction: 5459/5460
+Gauge Theory: Donaldson Invariant: 952201991969825039187184159094401283566362098280239661827430822567295833254002142616744625710418639352437657557473962434835405138607210496000000000000000000000000, SW Invariant: 10141204801825835211973625643008*sqrt(103)*sqrt(pi), Instanton Correction: log(104) + 1092624, Exotic Structure Analysis: 13081
+Symplectic Field Theory: SFT Invariants: [99029007164861804075467152545817733490901658221144924830052805546998766658416222832141441073883538492653516385977292093222882134415149891584000000000000000000000000, 10299016745145627623848583864765044283053772454999072182325491776887871732475287174542709871683888003235965704141638377695179741979175588724736000000000000000000000000, 1081396758240290900504101305800329649720646107774902579144176636573226531909905153326984536526808240339776398934872029657993872907813436816097280000000000000000000000000], Floer Homology: [103, 105, 107, 109], GW Invariants: [207, 209, 211]
+Mirror Symmetry Correction: 103/105*log(104)
+K-Theory Invariant: 10815
+Total Invariant: 1091794803992601389932025356817640511737190781888122796251332181155661402409038856724359387839566011881505018155399645327782275531927027554713600000000000000000000067992
+
+--- Classification for Surface of Genus 104 ---
+Postnikov Invariants: [2, 208, 16172], Whitehead Product: 5356, Tertiary Homotopy: 10920
+Quantum Homotopy Correction: 5564/5565
+Gauge Theory: Donaldson Invariant: 98085873763291691655700798712048040790988309095229258879290397875122587928336068328978189254132266697485387658491794073287426114087386559283200000000000000000000000, SW Invariant: 40564819207303340847894502572032*sqrt(26)*sqrt(pi), Instanton Correction: log(105) + 1124760, Exotic Structure Analysis: 13312
+Symplectic Field Theory: SFT Invariants: [10299016745145627623848583864765044283053772454999072182325491776887871732475287174542709871683888003235965704141638377695179741979175588724736000000000000000000000000, 1081396758240290900504101305800329649720646107774902579144176636573226531909905153326984536526808240339776398934872029657993872907813436816097280000000000000000000000000, 114628056373470835453434738414834942870388487424139673389282723476762012382449946252660360871841673476016298287096435143747350528228224302506311680000000000000000000000000], Floer Homology: [104, 106, 108, 110], GW Invariants: [209, 211, 213]
+Mirror Symmetry Correction: 52/53*log(105)
+K-Theory Invariant: 11024
+Total Invariant: 6133146863868182415022822480138501990912785927131587477152288957070942719662893314737580070266728777031043464541978787024501097786534896490290085888000000000000000003649158/53
+
+--- Classification for Surface of Genus 105 ---
+Postnikov Invariants: [2, 210, 16485], Whitehead Product: 5460, Tertiary Homotopy: 11130
+Quantum Homotopy Correction: 5670/5671
+Gauge Theory: Donaldson Invariant: 10201856209814065099095295337738958959628736865800967727775251288426665395376463710631929589875549437167701876744075751490508234979372045434880000000000000000000000000, SW Invariant: 40564819207303340847894502572032*sqrt(105)*sqrt(pi), Instanton Correction: log(106) + 1157520, Exotic Structure Analysis: 13545
+Symplectic Field Theory: SFT Invariants: [1081396758240290900504101305800329649720646107774902579144176636573226531909905153326984536526808240339776398934872029657993872907813436816097280000000000000000000000000, 114628056373470835453434738414834942870388487424139673389282723476762012382449946252660360871841673476016298287096435143747350528228224302506311680000000000000000000000000, 12265202031961379393517517010387338887131568154382945052653251412013535324922144249034658613287059061933743916719318560380966506520420000368175349760000000000000000000000000], Floer Homology: [105, 107, 109, 111], GW Invariants: [211, 213, 215]
+Mirror Symmetry Correction: 105/107*log(106)
+K-Theory Invariant: 11235
+Total Invariant: 1324757528904960685626245775961553235082729469806889980262519579397575150330505938747149117580410747170560699080372435828317788048606496077502260183040000000000000000007459620/107
+
+--- Classification for Surface of Genus 106 ---
+Postnikov Invariants: [2, 212, 16801], Whitehead Product: 5565, Tertiary Homotopy: 11342
+Quantum Homotopy Correction: 5777/5778
+Gauge Theory: Donaldson Invariant: 114628056373470835453434738414834942870388487424139673389282723476762012382449946252660360871841673476016298287096435143747350528228224302506311680000000000000000000000000/107, SW Invariant: 81129638414606681695789005144064*sqrt(106)*sqrt(pi), Instanton Correction: log(107) + 1190910, Exotic Structure Analysis: 13780
+Symplectic Field Theory: SFT Invariants: [114628056373470835453434738414834942870388487424139673389282723476762012382449946252660360871841673476016298287096435143747350528228224302506311680000000000000000000000000, 12265202031961379393517517010387338887131568154382945052653251412013535324922144249034658613287059061933743916719318560380966506520420000368175349760000000000000000000000000, 1324641819451828974499891837121832599810209360673358065686551152497461815091591578895743130235002378688844343005686404521144382704205360039762937774080000000000000000000000000], Floer Homology: [106, 108, 110, 112], GW Invariants: [213, 215, 217]
+Mirror Symmetry Correction: 53/54*log(107)
+K-Theory Invariant: 11448
+Total Invariant: 12033194845861474422559765099835712962761901855836486353713343179696569011860065557819274042882451514818286928986235375650021869051286074379902574919680000000000000000000635257/9
+
+--- Classification for Surface of Genus 107 ---
+Postnikov Invariants: [2, 214, 17120], Whitehead Product: 5671, Tertiary Homotopy: 11556
+Quantum Homotopy Correction: 5885/5886
+Gauge Theory: Donaldson Invariant: 113566685481123883273310342688771656362329334762805046783826401963088290045575409713283876048954250573460591821475171855379319504818703707112734720000000000000000000000000, SW Invariant: 162259276829213363391578010288128*sqrt(107)*sqrt(pi), Instanton Correction: log(108) + 1224936, Exotic Structure Analysis: 14017
+Symplectic Field Theory: SFT Invariants: [12265202031961379393517517010387338887131568154382945052653251412013535324922144249034658613287059061933743916719318560380966506520420000368175349760000000000000000000000000, 1324641819451828974499891837121832599810209360673358065686551152497461815091591578895743130235002378688844343005686404521144382704205360039762937774080000000000000000000000000, 144385958320249358220488210246279753379312820313396029159834075622223337844983482099636001195615259277084033387619818092804737714758384244334160217374720000000000000000000000000], Floer Homology: [107, 109, 111, 113], GW Invariants: [215, 217, 219]
+Mirror Symmetry Correction: 107/109*log(108)
+K-Theory Invariant: 11663
+Total Invariant: 15883792322248913194607596536444905091663107575402390948592487522848476638298599544683104909306526809916994450725102395931602673972632992656797755024343040000000000000000007788720/109
+
+--- Classification for Surface of Genus 108 ---
+Postnikov Invariants: [2, 216, 17442], Whitehead Product: 5778, Tertiary Homotopy: 11772
+Quantum Homotopy Correction: 5994/5995
+Gauge Theory: Donaldson Invariant: 1324641819451828974499891837121832599810209360673358065686551152497461815091591578895743130235002378688844343005686404521144382704205360039762937774080000000000000000000000000/109, SW Invariant: 1947111321950560360698936123457536*sqrt(3)*sqrt(pi), Instanton Correction: log(109) + 1259604, Exotic Structure Analysis: 14256
+Symplectic Field Theory: SFT Invariants: [1324641819451828974499891837121832599810209360673358065686551152497461815091591578895743130235002378688844343005686404521144382704205360039762937774080000000000000000000000000, 144385958320249358220488210246279753379312820313396029159834075622223337844983482099636001195615259277084033387619818092804737714758384244334160217374720000000000000000000000000, 15882455415227429404253703127090772871724410234473563207581748318444567162948183030959960131517678520479243672638179990208521148623422266876757623911219200000000000000000000000000], Floer Homology: [108, 110, 112, 114], GW Invariants: [217, 219, 221]
+Mirror Symmetry Correction: 54/55*log(109)
+K-Theory Invariant: 11880
+Total Invariant: 176309826169038436505935603520915919034738865905623958542879958397412167588690839151023410634278816603485182054056860441764317337929733421292447017730048000000000000000000000795654/11
+
+--- Classification for Surface of Genus 109 ---
+Postnikov Invariants: [2, 218, 17767], Whitehead Product: 5886, Tertiary Homotopy: 11990
+Quantum Homotopy Correction: 6104/6105
+Gauge Theory: Donaldson Invariant: 1312599621093175983822620093147997757993752911939963901453037051111121253136213473633054556323775084337127576251089255389133979225076220403037820157952000000000000000000000000, SW Invariant: 649037107316853453566312041152512*sqrt(109)*sqrt(pi), Instanton Correction: log(110) + 1294920, Exotic Structure Analysis: 14497
+Symplectic Field Theory: SFT Invariants: [144385958320249358220488210246279753379312820313396029159834075622223337844983482099636001195615259277084033387619818092804737714758384244334160217374720000000000000000000000000, 15882455415227429404253703127090772871724410234473563207581748318444567162948183030959960131517678520479243672638179990208521148623422266876757623911219200000000000000000000000000, 1762952551090244663872161047107075788761409536026565516041574063347346955087248316436555574598462315773196047662837978913145847497199871623320096254145331200000000000000000000000000], Floer Homology: [109, 111, 113, 115], GW Invariants: [219, 221, 223]
+Mirror Symmetry Correction: 109/111*log(110)
+K-Theory Invariant: 12099
+Total Invariant: 65822237521160316677481503822443275131300990586010041585297678892432308586757534869135761317053497553459237888647959812693545415190907934154323957416135229440000000000000000002708852/37
+
+--- Classification for Surface of Genus 110 ---
+Postnikov Invariants: [2, 220, 18095], Whitehead Product: 5995, Tertiary Homotopy: 12210
+Quantum Homotopy Correction: 6215/6216
+Gauge Theory: Donaldson Invariant: 143085183920967832470754082226042998844364056166428497365601336202203307774307955233873514698357464148461654708452071983860550888499299701592411026227200000000000000000000000000, SW Invariant: 1298074214633706907132624082305024*sqrt(110)*sqrt(pi), Instanton Correction: log(111) + 1330890, Exotic Structure Analysis: 14740
+Symplectic Field Theory: SFT Invariants: [15882455415227429404253703127090772871724410234473563207581748318444567162948183030959960131517678520479243672638179990208521148623422266876757623911219200000000000000000000000000, 1762952551090244663872161047107075788761409536026565516041574063347346955087248316436555574598462315773196047662837978913145847497199871623320096254145331200000000000000000000000000, 197450685722107402353682037275992488341277868034975337796656295094902858969771811440894224355027779366597957338237853638272334919686385621811850780464277094400000000000000000000000000], Floer Homology: [110, 112, 114, 116], GW Invariants: [221, 223, 225]
+Mirror Symmetry Correction: 55/56*log(111)
+K-Theory Invariant: 12320
+Total Invariant: 796918082914451497787833808104906619611644007924945507503621803626274601968088031761446959559031037443566530518293319188702757153328835662808190537369334579200000000000000000000296385/4
+
+--- Classification for Surface of Genus 111 ---
+Postnikov Invariants: [2, 222, 18426], Whitehead Product: 6105, Tertiary Homotopy: 12432
+Quantum Homotopy Correction: 6327/6328
+Gauge Theory: Donaldson Invariant: 15740647777591470213144295063456033828226870857380049250371196994172740670421859968183531916057699247974964711275339097438802209796427425208215145126297600000000000000000000000000, SW Invariant: 2596148429267413814265248164610048*sqrt(111)*sqrt(pi), Instanton Correction: log(112) + 1367520, Exotic Structure Analysis: 14985
+Symplectic Field Theory: SFT Invariants: [1762952551090244663872161047107075788761409536026565516041574063347346955087248316436555574598462315773196047662837978913145847497199871623320096254145331200000000000000000000000000, 197450685722107402353682037275992488341277868034975337796656295094902858969771811440894224355027779366597957338237853638272334919686385621811850780464277094400000000000000000000000000, 22311927486598136465966070212187151182564399087952213171022161345724023063584214692821047352118139068425569179220877461124773845924561575264739138192463311667200000000000000000000000000], Floer Homology: [111, 113, 115, 117], GW Invariants: [223, 225, 227]
+Mirror Symmetry Correction: 111/113*log(112)
+K-Theory Invariant: 12543
+Total Invariant: 2543758947110460754767149558387658334376471535304123303399839091281696879454525334041356728921397480042197257584565931259841403916167203165673696924817535952486400000000000000000008473224/113
+
+--- Classification for Surface of Genus 112 ---
+Postnikov Invariants: [2, 224, 18760], Whitehead Product: 6216, Tertiary Homotopy: 12656
+Quantum Homotopy Correction: 6440/6441
+Gauge Theory: Donaldson Invariant: 197450685722107402353682037275992488341277868034975337796656295094902858969771811440894224355027779366597957338237853638272334919686385621811850780464277094400000000000000000000000000/113, SW Invariant: 20769187434139310514121985316880384*sqrt(7)*sqrt(pi), Instanton Correction: log(113) + 1404816, Exotic Structure Analysis: 15232
+Symplectic Field Theory: SFT Invariants: [197450685722107402353682037275992488341277868034975337796656295094902858969771811440894224355027779366597957338237853638272334919686385621811850780464277094400000000000000000000000000, 22311927486598136465966070212187151182564399087952213171022161345724023063584214692821047352118139068425569179220877461124773845924561575264739138192463311667200000000000000000000000000, 2543559733472187557120132004189335234812341496026552301496526393412538629248600474981599398141467853800514886431180030568224218435400019580180261753940817530060800000000000000000000000000], Floer Homology: [112, 114, 116, 118], GW Invariants: [225, 227, 229]
+Mirror Symmetry Correction: 56/57*log(113)
+K-Theory Invariant: 12768
+Total Invariant: 48755313121245648218780583372337169191181696286668250310101559010013793548251934768231365454640879392317834017787043771776758027708641083280269442115361157257625600000000000000000001441650/19
+
+--- Classification for Surface of Genus 113 ---
+Postnikov Invariants: [2, 226, 19097], Whitehead Product: 6328, Tertiary Homotopy: 12882
+Quantum Homotopy Correction: 6554/6555
+Gauge Theory: Donaldson Invariant: 195718662163141547947070791334975010373371921824142220798440011804596693540212409586149538176474904108996220870358574220392753034425978730392448580635643084800000000000000000000000000, SW Invariant: 10384593717069655257060992658440192*sqrt(113)*sqrt(pi), Instanton Correction: log(114) + 1442784, Exotic Structure Analysis: 15481
+Symplectic Field Theory: SFT Invariants: [22311927486598136465966070212187151182564399087952213171022161345724023063584214692821047352118139068425569179220877461124773845924561575264739138192463311667200000000000000000000000000, 2543559733472187557120132004189335234812341496026552301496526393412538629248600474981599398141467853800514886431180030568224218435400019580180261753940817530060800000000000000000000000000, 292509369349301569068815180481773552003419272043053514672100535242441942363589054622883930786268803187059211939585703515345785120071002251720730101703194015956992000000000000000000000000000], Floer Homology: [113, 115, 117, 119], GW Invariants: [227, 229, 231]
+Mirror Symmetry Correction: 113/115*log(114)
+K-Theory Invariant: 12995
+Total Invariant: 6786730543235988159535229406792026710956526092577864441295665927335604715365728504188842078330534951138347505089510401737628084584103517156152027359692527826370560000000000000000000001765764/23
+
+--- Classification for Surface of Genus 114 ---
+Postnikov Invariants: [2, 228, 19437], Whitehead Product: 6441, Tertiary Homotopy: 13110
+Quantum Homotopy Correction: 6669/6670
+Gauge Theory: Donaldson Invariant: 22117910725845109192348973949472480302716013008926541752143707768804683732596525869405212157751894380874042490705913309288906247264347996349393580469050587217920000000000000000000000000, SW Invariant: 20769187434139310514121985316880384*sqrt(114)*sqrt(pi), Instanton Correction: log(115) + 1481430, Exotic Structure Analysis: 15732
+Symplectic Field Theory: SFT Invariants: [2543559733472187557120132004189335234812341496026552301496526393412538629248600474981599398141467853800514886431180030568224218435400019580180261753940817530060800000000000000000000000000, 292509369349301569068815180481773552003419272043053514672100535242441942363589054622883930786268803187059211939585703515345785120071002251720730101703194015956992000000000000000000000000000, 33931086844518982011982560935885732032396635556994207701963662088123265314176330336254535971207181169698868584991941607780111073928236261199604691797570505851011072000000000000000000000000000], Floer Homology: [114, 116, 118, 120], GW Invariants: [229, 231, 233]
+Mirror Symmetry Correction: 57/58*log(115)
+K-Theory Invariant: 13224
+Total Invariant: 992558053434450917289646391202779152669411147945465345299180515343014474059905871749219643540356151781452121042720796248454727414735537240656262462669801579850445619200000000000000000002252499/29
+
+--- Classification for Surface of Genus 115 ---
+Postnikov Invariants: [2, 230, 19780], Whitehead Product: 6555, Tertiary Homotopy: 13340
+Quantum Homotopy Correction: 6785/6786
+Gauge Theory: Donaldson Invariant: 2521632494390530767834613624842875448305338552095288919587073579676223641065422884680033886088524165405682861548152616511601595862681053894144225014682707034112000000000000000000000000000, SW Invariant: 41538374868278621028243970633760768*sqrt(115)*sqrt(pi), Instanton Correction: log(116) + 1520760, Exotic Structure Analysis: 15985
+Symplectic Field Theory: SFT Invariants: [292509369349301569068815180481773552003419272043053514672100535242441942363589054622883930786268803187059211939585703515345785120071002251720730101703194015956992000000000000000000000000000, 33931086844518982011982560935885732032396635556994207701963662088123265314176330336254535971207181169698868584991941607780111073928236261199604691797570505851011072000000000000000000000000000, 3969937160808720895401959629498630647790406360168322301129748464310422041758630649341780708631240196854767624444057168110272995649603642560353748940315749184568295424000000000000000000000000000], Floer Homology: [115, 117, 119, 121], GW Invariants: [231, 233, 235]
+Mirror Symmetry Correction: 115/117*log(116)
+K-Theory Invariant: 13455
+Total Invariant: 156162269523880977980337429218984927981617450184897022931508984850417722211591652180573667012796112226278488537398559121441169647837426043128397900126385892492975276032000000000000000000003064480/39
+
+--- Classification for Surface of Genus 116 ---
+Postnikov Invariants: [2, 232, 20126], Whitehead Product: 6670, Tertiary Homotopy: 13572
+Quantum Homotopy Correction: 6902/6903
+Gauge Theory: Donaldson Invariant: 290009289269393008649423597742613094293988338093967587196270616137805686445951541335508854454762232219648449444375569297265906614771250095723117023910859024367616000000000000000000000000000, SW Invariant: 166153499473114484112975882535043072*sqrt(29)*sqrt(pi), Instanton Correction: log(117) + 1560780, Exotic Structure Analysis: 16240
+Symplectic Field Theory: SFT Invariants: [33931086844518982011982560935885732032396635556994207701963662088123265314176330336254535971207181169698868584991941607780111073928236261199604691797570505851011072000000000000000000000000000, 3969937160808720895401959629498630647790406360168322301129748464310422041758630649341780708631240196854767624444057168110272995649603642560353748940315749184568295424000000000000000000000000000, 468452584975429065657431236280838416439267950499862031533310318788629800927518416622330123618486343228862579684398745837012213486653229822121742374957258403779058860032000000000000000000000000000], Floer Homology: [116, 118, 120, 122], GW Invariants: [233, 235, 237]
+Mirror Symmetry Correction: 58/59*log(117)
+K-Theory Invariant: 13688
+Total Invariant: 27874930740161856026555865529805103036326354456239653534486379823986672427840882192518481372922238645806335724468239901857085729009228940355654447986772931684699211825152000000000000000000004689582/59
+
+--- Classification for Surface of Genus 117 ---
+Postnikov Invariants: [2, 234, 20475], Whitehead Product: 6786, Tertiary Homotopy: 13806
+Quantum Homotopy Correction: 7020/7021
+Gauge Theory: Donaldson Invariant: 33643535261090855045779318894056191930427172543799341534997868341613746116598564824930344988400340651311590037661501424663330471606810530172489397799286010038714368000000000000000000000000000, SW Invariant: 498460498419343452338927647605129216*sqrt(13)*sqrt(pi), Instanton Correction: log(118) + 1601496, Exotic Structure Analysis: 16497
+Symplectic Field Theory: SFT Invariants: [3969937160808720895401959629498630647790406360168322301129748464310422041758630649341780708631240196854767624444057168110272995649603642560353748940315749184568295424000000000000000000000000000, 468452584975429065657431236280838416439267950499862031533310318788629800927518416622330123618486343228862579684398745837012213486653229822121742374957258403779058860032000000000000000000000000000, 55745857612076058813234317117419771556272886109483581752463927935846946310374691578057284710599874844234646982443450754604453404911734348832487342619913750049708004343808000000000000000000000000000], Floer Homology: [117, 119, 121, 123], GW Invariants: [235, 237, 239]
+Mirror Symmetry Correction: 117/119*log(118)
+K-Theory Invariant: 13923
+Total Invariant: 955710762281609042196381555326611846257119055927841405807072256052698071066847466630592262453758871270226193605788990479362790153698632099051880458644792511445417735487488000000000000000000001366740/17
+
+--- Classification for Surface of Genus 118 ---
+Postnikov Invariants: [2, 236, 20827], Whitehead Product: 6903, Tertiary Homotopy: 14042
+Quantum Homotopy Correction: 7139/7140
+Gauge Theory: Donaldson Invariant: 3936576344331336686196901145217129549909814710082874214565632930996889083424524509431345576625935657385399829280661729722791709971875880858165902310565196670412259328000000000000000000000000000, SW Invariant: 332306998946228968225951765070086144*sqrt(118)*sqrt(pi), Instanton Correction: log(119) + 1642914, Exotic Structure Analysis: 16756
+Symplectic Field Theory: SFT Invariants: [468452584975429065657431236280838416439267950499862031533310318788629800927518416622330123618486343228862579684398745837012213486653229822121742374957258403779058860032000000000000000000000000000, 55745857612076058813234317117419771556272886109483581752463927935846946310374691578057284710599874844234646982443450754604453404911734348832487342619913750049708004343808000000000000000000000000000, 6689502913449127057588118054090372586752746333138029810295671352301633557244962989366874165271984981308157637893214090552534408589408121859898481114389650005964960521256960000000000000000000000000000], Floer Homology: [118, 120, 122, 124], GW Invariants: [237, 239, 241]
+Mirror Symmetry Correction: 59/60*log(119)
+K-Theory Invariant: 14160
+Total Invariant: 13491434447292357090934019604888146393450916974396026508159337181112538266712530398723107560212406684991242294910683880105951748415613018877106180398769042028836895168921600000000000000000000000162625/2
+
+--- Classification for Surface of Genus 119 ---
+Postnikov Invariants: [2, 238, 21182], Whitehead Product: 7021, Tertiary Homotopy: 14280
+Quantum Homotopy Correction: 7259/7260
+Gauge Theory: Donaldson Invariant: 464548813433967156776952642645164762968940717579029847937199399465391219253122429817144039254998957035288724853695422955037111707597786240270727855165947917080900036198400000000000000000000000000, SW Invariant: 664613997892457936451903530140172288*sqrt(119)*sqrt(pi), Instanton Correction: log(120) + 1685040, Exotic Structure Analysis: 17017
+Symplectic Field Theory: SFT Invariants: [55745857612076058813234317117419771556272886109483581752463927935846946310374691578057284710599874844234646982443450754604453404911734348832487342619913750049708004343808000000000000000000000000000, 6689502913449127057588118054090372586752746333138029810295671352301633557244962989366874165271984981308157637893214090552534408589408121859898481114389650005964960521256960000000000000000000000000000, 809429852527344373968162284544935082997082306309701607045776233628497660426640521713391773997910182738287074185078904956856663439318382745047716214841147650721760223072092160000000000000000000000000000], Floer Homology: [119, 121, 123, 125], GW Invariants: [239, 241, 243]
+Mirror Symmetry Correction: 119/121*log(120)
+K-Theory Invariant: 14399
+Total Invariant: 98757187257107074827232200066853287918002350389002843572976748637956952052553698986714741359195024878927175442864502062277820078458837014752030109179077022951810761883320844288000000000000000000009950136/121
+
+--- Classification for Surface of Genus 120 ---
+Postnikov Invariants: [2, 240, 21540], Whitehead Product: 7140, Tertiary Homotopy: 14520
+Quantum Homotopy Correction: 7380/7381
+Gauge Theory: Donaldson Invariant: 55285148045034107913951388876779938733493771348248180250377449192575483944173247846007224506380041167836013536307554467376317426358744808759491579457765702528636037365760000000000000000000000000000, SW Invariant: 2658455991569831745807614120560689152*sqrt(30)*sqrt(pi), Instanton Correction: log(121) + 1727880, Exotic Structure Analysis: 17280
+Symplectic Field Theory: SFT Invariants: [6689502913449127057588118054090372586752746333138029810295671352301633557244962989366874165271984981308157637893214090552534408589408121859898481114389650005964960521256960000000000000000000000000000, 809429852527344373968162284544935082997082306309701607045776233628497660426640521713391773997910182738287074185078904956856663439318382745047716214841147650721760223072092160000000000000000000000000000, 98750442008336013624115798714482080125644041369783596059584700502676714572050143649033796427745042294071023050579626404736512939596842694895821378210620013388054747214795243520000000000000000000000000000], Floer Homology: [120, 122, 124, 126], GW Invariants: [241, 243, 245]
+Mirror Symmetry Correction: 60/61*log(121)
+K-Theory Invariant: 14640
+Total Invariant: 6073560243190385234633634496141947440454900461768012577482887116867108345828075777157929859630401692169227715226558509950819250384129779631526468567301108592015730816301704151040000000000000000000005072550/61
+
+--- Comprehensive Statistical Summary ---
+Mean Interaction Term: 26024.77819522298
+Median Interaction Term: 26033.225806451614
+Standard Deviation of Interaction Term: 14684.980361124595
+Variance of Interaction Term: 215648648.20661503
+
+Mean Total Invariant: 502653699382133530223763754152998786619462137601366660336526715667472350966065566804626841293193065493781348637379397727463263829737350613999131870589439684095736296485000689211316951776653977911393328352078551758704092159754394162081043150565010659919/605850951260100037910706281866242452811099960725136
+Median Total Invariant: 991562108302715015152545920757628993068190224464431512677665727414953574400000001078590/31
+Standard Deviation of Total Invariant: inf
+Variance of Total Invariant: 3106470464391936913013747762136528974279573882548733563216085777376704101665676632837785951775193537248127639585153243250733153477578505508996222168774737906575221119438592249822195301157735358511706703206310440339480830802906301680915937747649527304172878459255578060315155396490010103656562467289828651752384308940521747979863451394802332177277517464868229321345987614313079608679113187959982633507722259663793858585891946955617067597108894285411927424412672001967913188512981655939704094746188732591553/38234934910705011636909056002273430699252623229967098441405261397367091854958974962006371011973147760
+
+Linear Regression on Interaction Terms:
+Slope: 420.4293048329304
+Intercept: 799.0199052471552
+R-squared: 0.9999978123460945
