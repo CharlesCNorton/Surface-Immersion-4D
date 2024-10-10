@@ -1,0 +1,65 @@
+--- Classification for Surface of Genus 0 ---
+Postnikov Invariants: {'k_invariants': [0, 1, 2], 'whitehead_product': 3, 'tertiary_homotopy': 3, 'quantum_homotopy_correction': 0}
+Gauge Theory: {'donaldson': 2, 'sw_invariant': 12, 'instanton_correction': 1, 'exotic_structure_analysis': 24}
+Symplectic Field Theory: {'SFT_invariants': [0, 1, 2], 'Floer_homology': [4, 6, 8, 10], 'higher_gw_invariants': [3, 5, 7], 'interaction_term': 420}
+Mirror Symmetry Correction: 0
+K-Theory Invariant: 2
+Total Invariant: 422
+
+--- Classification for Surface of Genus 1 ---
+Postnikov Invariants: {'k_invariants': [1, 2, 3], 'whitehead_product': 6, 'tertiary_homotopy': 7, 'quantum_homotopy_correction': 10/3}
+Gauge Theory: {'donaldson': 2, 'sw_invariant': 12, 'instanton_correction': 2, 'exotic_structure_analysis': 48}
+Symplectic Field Theory: {'SFT_invariants': [1, 2, 3], 'Floer_homology': [4, 6, 8, 10], 'higher_gw_invariants': [5, 7, 9], 'interaction_term': 1176}
+Mirror Symmetry Correction: 1/2
+K-Theory Invariant: 3
+Total Invariant: 7097/6
+
+--- Classification for Surface of Genus 2 ---
+Postnikov Invariants: {'k_invariants': [2, 3, 4], 'whitehead_product': 9, 'tertiary_homotopy': 11, 'quantum_homotopy_correction': 7}
+Gauge Theory: {'donaldson': 2, 'sw_invariant': 12, 'instanton_correction': 3, 'exotic_structure_analysis': 72}
+Symplectic Field Theory: {'SFT_invariants': [3, 4, 5], 'Floer_homology': [4, 6, 8, 10], 'higher_gw_invariants': [9, 11, 13], 'interaction_term': 2772}
+Mirror Symmetry Correction: 4/3
+K-Theory Invariant: 4
+Total Invariant: 8353/3
+
+--- Classification for Surface of Genus 3 ---
+Postnikov Invariants: {'k_invariants': [3, 4, 5], 'whitehead_product': 12, 'tertiary_homotopy': 15, 'quantum_homotopy_correction': 54/5}
+Gauge Theory: {'donaldson': 2, 'sw_invariant': 12, 'instanton_correction': 4, 'exotic_structure_analysis': 96}
+Symplectic Field Theory: {'SFT_invariants': [4, 5, 6], 'Floer_homology': [5, 7, 9, 11], 'higher_gw_invariants': [11, 13, 15], 'interaction_term': 4992}
+Mirror Symmetry Correction: 9/4
+K-Theory Invariant: 5
+Total Invariant: 100201/20
+
+--- Running Stratified Tests ---
+PASS: Postnikov Invariants for genus 0
+PASS: Postnikov Invariants for genus 1
+PASS: Postnikov Invariants for genus 2
+PASS: Postnikov Invariants for genus 3
+PASS: Gauge-Theory Invariants for genus 0
+PASS: Gauge-Theory Invariants for genus 1
+PASS: Gauge-Theory Invariants for genus 2
+PASS: Gauge-Theory Invariants for genus 3
+PASS: SFT Invariants for genus 0
+PASS: SFT Invariants for genus 1
+PASS: SFT Invariants for genus 2
+PASS: SFT Invariants for genus 3
+PASS: Mirror Symmetry Correction for genus 0
+PASS: Mirror Symmetry Correction for genus 1
+PASS: Mirror Symmetry Correction for genus 2
+PASS: Mirror Symmetry Correction for genus 3
+PASS: K-Theory Invariants for genus 0
+PASS: K-Theory Invariants for genus 1
+PASS: K-Theory Invariants for genus 2
+PASS: K-Theory Invariants for genus 3
+
+--- SFT Interaction Term Comparison ---
+PASS: SFT interaction term for genus 0 within tolerance
+PASS: SFT interaction term for genus 1 within tolerance
+PASS: SFT interaction term for genus 2 within tolerance
+PASS: SFT interaction term for genus 3 within tolerance
+
+--- Regression Analysis ---
+Slope: 1531.2, Intercept: 43.19999999999982, R-value: 0.9778079216142879, P-value: 0.02219207838571213, Std_err: 231.98206827252855
+
+--- Bootstrapping Confidence Interval ---
+Bootstrapping Confidence Interval (95%): [798.0, 4038.0]
