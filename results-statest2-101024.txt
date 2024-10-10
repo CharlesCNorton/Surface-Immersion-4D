@@ -1,0 +1,28 @@
+Polynomial Regression Model:      2
+132 x + 334.8 x - 1.159
+Ridge Regression Coefficients: [4293.2215181]
+Bootstrapping Confidence Interval (99%): ConfidenceInterval(low=28771.65310505155, high=65527.68349981244)
+Cross-Validation Scores: [0.9382153088482749, 0.8520828425920155, 0.9019581183071451, 0.9268642080827898, 0.9468378290247649]
+Cross-Validation Mean: 0.913191661370998
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.943
+Model:                            OLS   Adj. R-squared:                  0.941
+Method:                 Least Squares   F-statistic:                     481.2
+Date:                Thu, 10 Oct 2024   Prob (F-statistic):           1.32e-19
+Time:                        09:36:33   Log-Likelihood:                -327.69
+No. Observations:                  31   AIC:                             659.4
+Df Residuals:                      29   BIC:                             662.2
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -1.914e+04   3419.392     -5.598      0.000   -2.61e+04   -1.21e+04
+x1          4294.9527    195.794     21.936      0.000    3894.509    4695.396
+==============================================================================
+Omnibus:                        4.081   Durbin-Watson:                   0.057
+Prob(Omnibus):                  0.130   Jarque-Bera (JB):                3.059
+Skew:                           0.630   Prob(JB):                        0.217
+Kurtosis:                       2.116   Cond. No.                         34.2
+==============================================================================
